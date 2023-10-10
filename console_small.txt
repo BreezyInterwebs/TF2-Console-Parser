@@ -1,0 +1,2989 @@
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_use_steam_voice)
+[TF Workshop] Got 6 subscribed maps, 6 new
+ProtoDefs post data loaded.
+ProtoDefs loaded. 31.27 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 31.27 MB used
+maxplayers set to 24
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\platform\config
+CClientSteamContext logged on = 1
+Convar tf_impactwatertimeenable has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Parent cvar in server.dll not allowed (tf_mvm_max_connected_players)
+Convar cl_particle_retire_cost has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar r_drawropes has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Hud element 'CCurrencyStatusPanel' doesn't have an entry 'CurrencyStatusPanel' in scripts/HudLayout.res
+[SteamNetworkingSockets] WARNING: Waited 4.8ms for SteamNetworkingSockets lock [ServiceThread]
+ProtoDefs post data loaded.
+ProtoDefs loaded. 31.27 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 31.27 MB used
+Cleaning up unneeded replay block data...
+Replay cleanup done.
+Loading default settings for high sensitivity
+Creating fallback sound cache at: c:\program files (x86)\steam\steamapps\common\team fortress 2\tf\sound_workshop
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+Connection to game coordinator established.
+CTFGCClientSystem::PostInitGC
+CTFGCClientSystem - adding listener
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+'overrides/pre_comfig.cfg' not present; not executing.
+Lobby-based matchmaking mode not active
+Unknown command "r_shadowlod"
+Unknown command "cat_ipc_exec_all"
+Unknown command "cat_detach"
+Unknown command "block_game_overrides_once"
+'overrides/setup_hook.cfg' not present; not executing.
+Low preset selected 
+Disable Pyroland addon applied 
+'addons/flat-mouse.cfg' not present; not executing.
+'addons/lowmem.cfg' not present; not executing.
+'addons/no-footsteps.cfg' not present; not executing.
+No Soundscapes addon applied 
+No Tutorial addon applied 
+'addons/null-canceling-movement.cfg' not present; not executing.
+'addons/opengl.cfg' not present; not executing.
+'addons/transparent-viewmodels.cfg' not present; not executing.
+Modules applied 
+ 
+ 
+ 
+ 
+---------------|||||-------------------- 
+----------||||||||||-------------------- 
+-------||||||||------------------------- 
+-----||||||-----||||||||---------------- 
+---|||||----||||||||||||||||------------ 
+--||||----|||||||------|||||||---------- 
+-||||---|||||--------------|||||-------- 
+-|||---||||------------------||||------- 
+|||---||||--------------------||||------ 
+|||---|||----------------------|||------ 
+|||---|||----------------------|||---||| 
+|||---|||----------------------|||---||| 
+|||---||||--------------------||||---||| 
+||||---||||------------------||||---|||| 
+|||||---|||||--------------|||||---||||| 
+||||||---||||||||------|||||||----|||||| 
+||||||||----||||||||||||||||----|||||||| 
+|||--||||||-----||||||||-----||||||--||| 
+|||----||||||||----------||||||||----||| 
+|||-------||||||||||||||||||||-------||| 
+|||-----------||||||||||||-----------||| 
+ 
+ 
+ 
+ 
+  ********************************** 
+  ********************************** 
+  mastercomfig 9.10.2 loaded 
+  July 9, 2023 
+  ********************************** 
+  ********************************** 
+ 
+ 
+ 
+ 
+  ################################################## 
+  This release took 30 hours to produce. 
+  If you like the work I do, consider supporting me! 
+ 
+  docs.mastercomfig.com/page/support_me 
+ 
+  I accept Ko-fi, Liberapay, and trade offers! 
+ 
+  Your continued support, gratitude and dedication 
+  are much appreciated. Thank you so much! 
+  ################################################## 
+ 
+ 
+ 
+ 
+Unknown command "sm_slap"
+[TF Workshop] Got updated information for map [ workshop/pl_ququmannz_rc2.ugc841291955 ]
+[TF Workshop] Got updated information for map [ workshop/pl_upward_free.ugc909057144 ]
+[TF Workshop] Got updated information for map [ workshop/mvm_yucatan_rc4.ugc528867291 ]
+[TF Workshop] Got updated information for map [ workshop/plr_highertower_nb.ugc954668585 ]
+[TF Workshop] Got updated information for map [ workshop/koth_namicott_j.ugc965555331 ]
+[TF Workshop] Got updated information for map [ workshop/plr_bananabay_rc4.ugc951657912 ]
+Applying new item schema, version 4D688FEF
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+Applied updated item schema from GC. 6522426 bytes, version 4D688FEF.
+Changing resolutions from (1920, 1080) -> (1920, 1080)
+Unable to remove c:\program files (x86)\steam\steamapps\common\team fortress 2\tf\textwindow_temp.html!
+Network: IP 192.168.4.33, mode MP, dedicated No, ports 27015 SV / 27005 CL
+Connecting to 162.248.92.37:27215...
+Connected to 162.248.92.37:27215
+
+Team Fortress
+Map: vsh_tranquil_b5
+Players: 7 / 28
+Build: 8308684
+Server Number: 1
+
+Attemped to precache unknown particle system "Explosions_MA_Dustup_2"!
+Attemped to precache unknown particle system "Explosions_UW_Debris001"!
+Attemped to precache unknown particle system "projectile_fireball_center"!
+Attemped to precache unknown particle system "projectile_fireball_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_smoke"!
+Attemped to precache unknown particle system "projectile_fireball_end"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_smoke"!
+Attemped to precache unknown particle system "dragons_fury_FloatieEmbers"!
+Attemped to precache unknown particle system "projectile_fireball_fireball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokeball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokepuff_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_trail_pyrovision"!
+Attemped to precache unknown particle system "beam_scale"!
+Attemped to precache unknown particle system "grinder_splash"!
+Attemped to precache unknown particle system "grinder_splash_bloody"!
+Attemped to precache unknown particle system "grinderfx_add"!
+Attemped to precache unknown particle system "jumppad_radiate"!
+Attemped to precache unknown particle system "jumppad_radiate_child1"!
+Attemped to precache unknown particle system "jumppad_radiate_child2"!
+Attemped to precache unknown particle system "jumppad_radiate_child3"!
+Attemped to precache unknown particle system "jumppad_boost"!
+Attemped to precache unknown particle system "beam_top"!
+Attemped to precache unknown particle system "beam_bottom"!
+Attemped to precache unknown particle system "new_beam_particle_longerrrrr"!
+Attemped to precache unknown particle system "new_beam_center_crit_longerrrrrr"!
+Attemped to precache unknown particle system "blood_impact_red"!
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "ModelGlowColor" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Add" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Equals" unable to initialize!
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 283160 of shader (dyn=20)
+Error! Flag "$selfillum" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/models/player/soldier/2oldier_cape_red_invun.vmt
+VertexLitGeneric, (*proxies*), (*Equals*), 
+c_demo_arms.mdl/weapons/c_models/c_demo_animations.mdl : missmatched parent bones on "weapon_bone_L"
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_red_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_blue_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_purple_invun"!
+c_heavy_arms.mdl/weapons/c_models/c_heavy_animations.mdl : missmatched parent bones on "weapon_bone_3"
+c_heavy_arms.mdl/weapons/c_models/c_heavy_animations.mdl : missmatched parent bones on "weapon_bone_4"
+c_heavy_arms.mdl/weapons/c_models/c_heavy_animations.mdl : missmatched parent bones on "vm_weapon_bone_4"
+Error! Flag "$selfillum" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+c_engineer_arms.mdl/weapons\c_models\c_engineer_animations.mdl : missmatched parent bones on "weapon_bone_L"
+c_engineer_gunslinger.mdl/weapons\c_models\c_engineer_animations.mdl : missmatched parent bones on "weapon_bone_L"
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\vo\taunts\pyro\pyro_highfive_success03.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\taunts\pyro\pyro_highfive_success03.mp3 ]
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Cannot figure out which search path sound\vo\halloween_eyeball\eyeball_biglaugh02.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\halloween_eyeball\eyeball_biglaugh02.mp3 ]
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive02.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive03.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive04.wav came from. Not playing.
+Cannot figure out which search path sound\vo\sniper_domination1.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination1.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination2.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination2.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination3.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination3.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination4.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination4.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination5.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination5.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination6.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination6.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination7.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination7.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination8.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination8.mp3 ]
+Cannot figure out which search path sound\vo\sniper_domination9.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\sniper_domination9.mp3 ]
+Cannot figure out which search path sound\template_snd\jump1.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ template_snd\jump1.mp3 ]
+Cannot figure out which search path sound\template_snd\jump2.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ template_snd\jump2.mp3 ]
+Cannot figure out which search path sound\opst\saxtonhale\dtrump\rage1.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ opst\saxtonhale\dtrump\rage1.mp3 ]
+Cannot figure out which search path sound\opst\saxtonhale\dtrump\rage2.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ opst\saxtonhale\dtrump\rage2.mp3 ]
+Cannot figure out which search path sound\vo\pyro_laughhappy01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath03.wav came from. Not playing.
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_tf2_04_hdrrt)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_tf2_04_hdrbk)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_tf2_04_hdrlf)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_tf2_04_hdrft)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_tf2_04_hdrup)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_tf2_04_hdrdn)
+Voice_Init: Using Steam voice optimal sample rate 24000
+Breezy Interwebs connected
+CAsyncWavDataCache:  3 .wavs total 0 bytes, 0.00 % of capacity
+Compact freed 552960 bytes
+Using joystick 'Xbox360 controller' configuration
+JOY_AXIS_X:  mapped to Side (absolute)
+JOY_AXIS_Y:  mapped to Forward (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Look (absolute)
+JOY_AXIS_U:  mapped to Turn (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+nick-o-ween connected
+FFD700[RTD] FF4040Perry the Platypus rolled 32CD32Madaras Whistle for 25 second(s).
+Download file 'user_custom/c1/c12cc55b.dat' already exists!
+Gehtingsberg killed Stormy MNI with sword. (crit)
+[VSH 2] End of Round Saxton Hale (Stormy MNI) had 0 (of 6310) health left.
+
+Gehtingsberg killed Perry the Platypus with sword. (crit)
+FFD700[RTD] FF4040Perry the Platypus has died during their roll.
+Mr Felicio Sexopants killed Gehtingsberg with quake_rl. (crit)
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 281880 of shader (dyn=20)
+Mr Felicio Sexopants killed Heatmaker with quake_rl. (crit)
+[Admin] Heatmaker :  EZ DOM?!?!?!
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+[Admin] Heatmaker :  i'm point farming frfr
+[Admin] Heatmaker :  oh hi server killer
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+nick-o-ween killed Mr Felicio Sexopants with shovel.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Started download of cloud file 1A6E17DF80622AA9
+Started download of cloud file 191A150D3520544A
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Heatmaker with shovel.
+nick-o-ween killed Perry the Platypus with shovel.
+*DEAD* Perry the Platypus :  uydfbgyuawigd
+*DEAD* [Admin] Heatmaker :  woooooooooo breezy here too
+*DEAD* Perry the Platypus :  purple jumpscare
+*DEAD* [Admin] Heatmaker :  the gang is coming back
+nick-o-ween killed (⚆ʖ̯⚆) with shovel.
+*DEAD* [Admin] Breezy Interwebs :  hey you guys wanna hear something funny
+*DEAD* [Admin] Heatmaker :  lay it on us
+nick-o-ween killed Gehtingsberg with shovel.
+*DEAD* [Admin] Heatmaker :  stormy afk
+*DEAD* [Admin] Breezy Interwebs :  i did an analysis of 3 years of console logs that i had, there were 200 n-words and 100 of them were from gunner
+FFD700[RTD] 99CCFFnick-o-ween rolled 8650ACSpring Shoes for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+nick-o-ween killed Stormy MNI with shovel.
+[VSH 2] End of Round Trump (nick-o-ween) had 6440 (of 7110) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+(Demo Support) Start recording demos\2023-09-29_16-17-13
+Recording to demos\2023-09-29_16-17-13.dem...
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+(⚆ʖ̯⚆) :  /tp
+(⚆ʖ̯⚆) :  !tp
+(⚆ʖ̯⚆) :  !thirdperson
+FFD700[RTD] FF4040Perry the Platypus rolled 8650ACForced Taunt for 25 second(s).
+Perry the Platypus :  fuc
+(⚆ʖ̯⚆) killed Breezy Interwebs with wrench.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+(⚆ʖ̯⚆) killed Perry the Platypus with wrench.
+FFD700[RTD] FF4040Perry the Platypus has died during their roll.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+imatrain (STEAM_0:1:62552762) Connected.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+(⚆ʖ̯⚆) killed Mr Felicio Sexopants with wrench.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+(⚆ʖ̯⚆) killed Gehtingsberg with wrench.
+[SM] Voting for next map has started.
+imatrain connected
+(⚆ʖ̯⚆) killed Heatmaker with wrench.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[SM] Map voting has finished. The next map will be vsh_reiltas_hills_v2. (Received 50% of 6 votes)
+*DEAD* [Admin] Heatmaker :  vsh
+(⚆ʖ̯⚆) killed nick-o-ween with wrench.
+[VSH 2] End of Round Mecha-Engie ((⚆ʖ̯⚆)) had 4464 (of 8056) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+[VSH 2] Type !setboss to select your boss!
+(⚆ʖ̯⚆) :  )
+Heatmaker killed Mr Felicio Sexopants with shovel.
+Heatmaker killed imatrain with shovel.
+Heatmaker killed (⚆ʖ̯⚆) with shovel.
+Heatmaker killed Perry the Platypus with shovel.
+Heatmaker killed Gehtingsberg with shovel.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+*DEAD* Perry the Platypus :  how to play vsh, shoot the enemy gamer
+Heatmaker killed nick-o-ween with shovel.
+*DEAD* Perry the Platypus :  and dont die
+[Admin] Heatmaker :  im gonna do it
+FFD700[RTD] Rolled 32CD32Mini Crits for 25 second(s).
+[Admin] Heatmaker :  ima press e
+*DEAD* Perry the Platypus :  NO
+*DEAD* Perry the Platypus :  NOT E
+[Admin] Heatmaker :  DARN
+*DEAD* Perry the Platypus :  AAAAAAAAAAAAAAAAAA
+[Admin] Heatmaker :  I NEED AN ADULT
+Breezy Interwebs killed Heatmaker with player.
+[MNI] You gained 1 Serotonin for killing Heatmaker.
+[VSH 2] End of Round Trump (Heatmaker) had 0 (of 8056) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 2 points.
+FFD700[RTD] Your perk has worn off.
+[Admin] Heatmaker :  bonus round
+Perry the Platypus :  shovel wins
+FFD700[RTD] FF4040Perry the Platypus rolled 8650ACLow Health.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+Gehtingsberg killed imatrain with tribalkukri.
+Gehtingsberg killed Heatmaker with world.
+*DEAD* [Admin] Heatmaker :  oh kritz and uber are separate?
+[VSH 2] Type !setboss to select your boss!
+*DEAD* [Admin] Heatmaker :  this is sadge
+Perry the Platypus :  indeed
+Gehtingsberg captured the Control Point for team #3
+Gehtingsberg killed Breezy Interwebs with tf_projectile_arrow.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Gehtingsberg killed Mr Felicio Sexopants with tf_projectile_arrow.
+*DEAD* [Admin] Breezy Interwebs :  guh
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+[MNI] You just gained 6 Serotonin!
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+yehhew (STEAM_0:1:83314220) Connected.
+[VSH 2] Type !setboss to select your boss!
+Fem Tricky (STEAM_0:1:743129283) Connected.
+Gehtingsberg defended the Control Point for team #3
+Gehtingsberg killed Stormy MNI with tf_projectile_arrow.
+No such variable "$basetexture" for material "effects/minicrit"
+nick-o-ween killed Gehtingsberg with iron_bomber. (crit)
+[VSH 2] End of Round The Christian Brutal Sniper (Gehtingsberg) had 0 (of 8056) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+
+Team Fortress
+Map: vsh_reiltas_hills_v2
+Players: 10 / 28
+Build: 8308684
+Server Number: 2
+
+CAsyncWavDataCache:  439 .wavs total 0 bytes, 0.00 % of capacity
+Completed demo, recording time 512.1, game frames 32354.
+(Demo Support) End recording demos\2023-09-29_16-17-13
+Attemped to precache unknown particle system "projectile_fireball_center"!
+Attemped to precache unknown particle system "projectile_fireball_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_smoke"!
+Attemped to precache unknown particle system "projectile_fireball_end"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_smoke"!
+Attemped to precache unknown particle system "dragons_fury_FloatieEmbers"!
+Attemped to precache unknown particle system "projectile_fireball_fireball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokeball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokepuff_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_trail_pyrovision"!
+Attemped to precache unknown particle system "water_fall_mid_mist"!
+Attemped to precache unknown particle system "water_fall_2"!
+Attemped to precache unknown particle system "smoke_volcano_l3l"!
+Attemped to precache unknown particle system "creak_splash_k3k"!
+Attemped to precache unknown particle system "blood_impact_red"!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "ModelGlowColor" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Add" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Equals" unable to initialize!
+Error! Flag "$selfillum" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/models/player/soldier/2oldier_cape_red_invun.vmt
+VertexLitGeneric, (*proxies*), (*Equals*), 
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_red_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_blue_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_purple_invun"!
+Error! Flag "$selfillum" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_trunk
+MDLCache: Failed load of .VVD data for bots/boss_bot/anim_tank.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_01_leaves.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_01_leaves_big.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_01_trunk.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_01_trunk_big.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_02_leaves.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_02_leaves_big.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_02_trunk.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_02_trunk_big.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_03_leaves.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_03_leaves_big.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_03_trunk.mdl
+MDLCache: Failed load of .VVD data for props_frontline\tree_03_trunk_big.mdl
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive02.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive03.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive04.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_laughhappy01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath03.wav came from. Not playing.
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_trunk
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_urban/urban_crate001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_construction/pencil_mug.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/moon_corkboard.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/sawmill_window1a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_01a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/hwn_lightbulb01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/office_window_vent.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/rock_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_doomsday/corkboard_doomsday.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/building_farm01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_trainyard/window_skylight001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/candle_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_harbor/hopper_harbor3.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/roof_tiles2.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_04b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/chimney008.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_soho/pipestreet001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_red_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_top_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft_replacement)
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_trunk
+Voice_Init: Using Steam voice optimal sample rate 24000
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_trunk
+Breezy Interwebs connected
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/tree_01_trunk
+Compact freed 536576 bytes
+Redownloading all lightmaps
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+nick-o-ween (STEAM_0:1:94487327) Connected. Rank 3 with 1224 Serotonin. Monthly Rank 3 with 1224 Serotonin.
+Stormy MNI suicided.
+*DEAD* [Admin] Heatmaker :  WHAT THE FUCK IS THAT SCAG
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* [Admin] Heatmaker :  yeah i just busted a phat one ngl
+*DEAD* [Admin] Breezy Interwebs :  who is that
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Lechuga connected
+nick-o-ween connected
+Fem Tricky connected
+Mr Felicio Sexopants connected
+[VSH 2] Type !setboss to select your boss!
+*DEAD* [Admin] Heatmaker :  this feels weird because i saw nergal a few days ago on Blackwonder
+*DEAD* [Admin] Heatmaker :  *met nergal
+*DEAD* nick-o-ween :  he hangs out around vsh servers
+*DEAD* nick-o-ween :  the ones he does dev for
+FFD700[RTD] FF4040Scag rolled 32CD32Extra Ammo.
+*DEAD* [Admin] Heatmaker :  ah welcome fem
+*DEAD* [Admin] Heatmaker :  srry bout the delay
+*DEAD* [Admin] Breezy Interwebs :  throwing
+Pizza (STEAM_0:1:123571052) Connected. Rank 1 with 1971 Serotonin. Monthly Rank 1 with 1971 Serotonin.
+Gehtingsberg killed imatrain with sword. (crit)
+[VSH 2] End of Round Sauron (imatrain) had 1 (of 5660) health left.
+
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+[MNI] You just gained 6 Serotonin!
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+yehhew killed Gehtingsberg with headtaker. (crit)
+[Admin] Heatmaker :  i didn't realize having private game details made it impossible to join off of me
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+(Demo Support) Start recording demos\2023-09-29_16-28-48
+Recording to demos\2023-09-29_16-28-48.dem...
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+Fem Tricky :  y
+[Admin] Breezy Interwebs :  heatmaker finally realizes
+Mr Felicio Sexopants killed Fem Tricky with robot_arm.
+[Admin] Breezy Interwebs :  this isnt risk of rain 2
+[VSH 2] Type !wepstats to view the current weapon stats!
+Pizza connected
+Stormy MNI :  WTF REAL SCAG?!@$!
+*DEAD* Pizza :  real scag?
+Mr Felicio Sexopants killed Lechuga with world.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Mr Felicio Sexopants killed Gehtingsberg with robot_arm.
+Mr Felicio Sexopants killed yehhew with robot_arm.
+Mr Felicio Sexopants killed Stormy MNI with robot_arm.
+Mr Felicio Sexopants defended Red Bar for team #3
+Mr Felicio Sexopants killed Perry the Platypus with robot_arm.
+*DEAD* Perry the Platypus :  man
+[VSH 2] Type !wepstats to view the current weapon stats!
+Mr Felicio Sexopants killed Heatmaker with robot_arm.
+Mr Felicio Sexopants killed Breezy Interwebs with robot_arm.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Mr Felicio Sexopants killed Scag with robot_arm.
+Mr Felicio Sexopants killed nick-o-ween with robot_arm.
+[VSH 2] End of Round The Vagineer (Mr Felicio Sexopants) had 893 (of 13278) health left.
+
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 281880 of shader (dyn=20)
+yehhew suicided.
+[Admin] Heatmaker :  havent touched heavy in a minute
+[VSH 2] Type !setboss to select your boss!
+Perry the Platypus killed Fem Tricky with robot_arm.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Perry the Platypus killed Breezy Interwebs with robot_arm.
+No such variable "$basetexture" for material "effects/bendibeam"
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFPerry the Platypus rolled 32CD32Low Gravity for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus :  weeeeeeeeeee
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+No such variable "$basetexture" for material "vgui/white"
+No such variable "$basetexture" for material "effects/starflash01"
+"mwheeldown" = "sm_slap @aim"
+"mwheelup" = "+jump"
+FFD700[RTD] 99CCFFPerry the Platypus's perk has worn off.
+FFD700[RTD] FF4040Mr Felicio Sexopants rolled 8650ACFrozen for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus killed Mr Felicio Sexopants with robot_arm.
+FFD700[RTD] FF4040Mr Felicio Sexopants has died during their roll.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+Pizza :  i am hitting these milks
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus killed Heatmaker with robot_arm.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus defended Red Bar for team #3
+*DEAD* [Admin] Heatmaker :  ngl MfD goes crazy with brass beast
+*DEAD* [Admin] Heatmaker :  16 dmg pegs cross map is wild
+Perry the Platypus killed Gehtingsberg with robot_arm.
+Perry the Platypus killed yehhew with robot_arm.
+*DEAD* [Admin] Breezy Interwebs :  peg, you say
+*DEAD* [Admin] Heatmaker :  m a n
+Stormy MNI, nick-o-ween captured Red Bar for team #2
+[VSH 2] Type !wepstats to view the current weapon stats!
+*DEAD* [Admin] Heatmaker :  uh oh
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+*DEAD* [Admin] Heatmaker :  is it just me or the point cap feel longer now?
+Perry the Platypus captured Red Bar for team #3
+[VSH 2] Type !wepstats to view the current weapon stats!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFPerry the Platypus rolled 32CD32Tiny Mann for 25 second(s).
+*DEAD* [Admin] Heatmaker :  oh yikes
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus killed Stormy MNI with robot_arm.
+*DEAD* [Admin] Heatmaker :  rip stormy
+FFD700[RTD] 99CCFFPerry the Platypus's perk has worn off.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Boss Health Check The Vagineer's current health is: 13259 of 13278
+
+*DEAD* [Admin] Breezy Interwebs :  hgug/?
+Perry the Platypus :  what?
+FFD700[RTD] FF4040Pizza rolled 32CD32Mini Crits for 25 second(s).
+Perry the Platypus defended Red Bar for team #3
+Perry the Platypus :  OH
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* [Admin] Breezy Interwebs :  lol
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+Scag captured Red Bar for team #2
+[VSH 2] Boss Health Check The Vagineer's current health is: 12947 of 13278
+
+Perry the Platypus :  tiny man respawned me
+*DEAD* [Admin] Breezy Interwebs :  yeah
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* [Admin] Heatmaker :  welp.
+FFD700[RTD] FF4040Pizza's perk has worn off.
+Perry the Platypus :  gaming
+*DEAD* [Admin] Breezy Interwebs :  you're dying if you lose 4k
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus :  man
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Perry the Platypus killed Pizza with robot_arm.
+Mr Felicio Sexopants has been idle for too long and has been kicked
+Perry the Platypus killed Lechuga with robot_arm.
+Perry the Platypus killed Scag with robot_arm.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[VSH 2] Boss Health Check The Vagineer's current health is: 9886 of 13278
+
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+nick-o-ween killed Perry the Platypus with player.
+[SM] Summoned the power of he who banned alimoodyl and smote Perry the Platypus!
+[VSH 2] End of Round The Vagineer (Perry the Platypus) had 0 (of 13278) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+Perry the Platypus :  man
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[Admin] Heatmaker :  how's life going for y'all? it feels almost surreal to think we've been gaming in the same community for around 3 years 
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween suicided. (crit)
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[Admin] Heatmaker :  feels off
+Pizza suicided.
+nick-o-ween :  nothing in life has changed
+Perry the Platypus :  i shouldve just killed him with that rage
+[Admin] Heatmaker :  nick im going into a cancer spot
+[Admin] Heatmaker :  gl
+[VSH 2] Type !wepstats to view the current weapon stats!
+nick-o-ween killed Heatmaker with shovel.
+*DEAD* [Admin] Heatmaker :  nvm
+FFD700[RTD] FF4040Perry the Platypus rolled 32CD32Extra Ammo.
+yehhew, Scag captured Red Bar for team #2
+nick-o-ween killed yehhew with shovel.
+FFD700[RTD] FF4040Scag rolled 8650ACVampire for 25 second(s).
+nick-o-ween killed Scag with shovel.
+FFD700[RTD] FF4040Scag has died during their roll.
+>> Lechuga just goomba stomped nick-o-ween!
+nick-o-ween killed Lechuga with shovel.
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+nick-o-ween killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* [Admin] Heatmaker :  inb4 solo rage??
+nick-o-ween killed Pizza with shovel.
+[VSH 2] End of Round Trump (nick-o-ween) had 3815 (of 8056) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/engineer.cfg' not present; not executing.
+'app/engineer.cfg' not present; not executing.
+'app/engineer.cfg' not present; not executing.
+nick-o-ween :  my solo rage list is slim
+FFD700[RTD] FF4040Gehtingsberg rolled 32CD32Mercs Die Twice for 25 second(s).
+Gehtingsberg :  !rtd
+nick-o-ween :  and not biased at all
+[VSH 2] Type !setboss to select your boss!
+Lechuga killed Scag with shovel.
+Lechuga killed Heatmaker with shovel.
+FFD700[RTD] FF4040Gehtingsberg's perk has worn off.
+Lechuga killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Lechuga killed Gehtingsberg with shovel.
+*DEAD* [Admin] Breezy Interwebs :  you play engi to support the team, i play engi to listen to music
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Lechuga killed yehhew with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+No such variable "$basetexture" for material "effects/softglow_translucent"
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Lechuga killed Pizza with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Lechuga defended Red Bar for team #3
+Lechuga killed nick-o-ween with shovel.
+*DEAD* [Admin] Heatmaker :  rip
+Lechuga killed Stormy MNI with shovel.
+[VSH 2] End of Round Saxton Hale (Lechuga) had 618 (of 9140) health left.
+
+Lechuga suicided.
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+[MNI] You just gained 6 Serotonin!
+FFD700[RTD] 99CCFFScag rolled 8650ACSickness for 25 second(s).
+Cannot figure out which search path sound\vo\mvm\norm\scout_dominationmed01.mp3 came from. Not playing.
+MP3 is completely missing, sound system will be upset to learn of this [ vo\mvm\norm\scout_dominationmed01.mp3 ]
+MP3 initialized with no sound cache, this may cause janking. [ vo\mvm\norm\scout_dominationmed01.mp3 ]
+Failed to create decoder for MP3 [ vo\mvm\norm\scout_dominationmed01.mp3 ]
+*** Invalid sample rate (0) for sound 'vo\mvm\norm\scout_dominationmed01.mp3'.
+Cannot figure out which search path sound\vo\mvm\norm\scout_dominationmed01.mp3 came from. Not playing.
+Gehtingsberg :  !rtd
+FFD700[RTD] 99CCFFScag's perk has worn off.
+Scag killed Stormy MNI with wrench.
+Scag killed Heatmaker with wrench.
+[Admin] Heatmaker :  RAHHH
+[VSH 2] Type !wepstats to view the current weapon stats!
+Breezy Interwebs killed Stormy MNI with player.
+[MNI] You gained 1 Serotonin for killing Stormy MNI.
+Stormy MNI killed Breezy Interwebs with env_explosion.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+yehhew killed Heatmaker with player.
+*DEAD* [Admin] Heatmaker :  darn
+*DEAD* Stormy MNI :  KILL your local journalist
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag killed Gehtingsberg with wrench.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Lechuga killed Scag with fryingpan. (crit)
+[VSH 2] End of Round Mecha-Engie (Scag) had 0 (of 9140) health left.
+
+Pizza killed Lechuga with knife. (crit)
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+[Admin] Breezy Interwebs :  CASTRATE your local journalist
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Pizza killed nick-o-ween with revolver. (crit)
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[Admin] Heatmaker :  ayo?
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Stormy MNI :  !wepstats
+Stormy MNI :  WHAT
+Breezy Interwebs suicided.
+Stormy MNI :  SKBIDI TOILET GUY IS A BAD GUY!@?$?!%
+FFD700[RTD] FF4040Gehtingsberg rolled 8650ACSuffocation for 25 second(s).
+Gehtingsberg :  !rtd
+[Admin] Breezy Interwebs :  i still have no idea what skibidi toilet is
+[VSH 2] Type !wepstats to view the current weapon stats!
+FFD700[RTD] FF4040Gehtingsberg's perk has worn off.
+Stormy MNI :  then you and i arent on the same level of understanding 
+[Admin] Heatmaker :  2013 gmod shitposting sfm content x modern skibidi meme
+[Admin] Heatmaker :  that's it
+Stormy MNI killed Gehtingsberg with shovel.
+Stormy MNI killed yehhew with world.
+Stormy MNI :  lamo
+Scag captured Red Bar for team #2
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+Stormy MNI killed Heatmaker with shovel.
+nick-o-ween suicided.
+Stormy MNI killed Breezy Interwebs with shovel.
+Stormy MNI killed Pizza with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* [Admin] Heatmaker :  clutch up scag
+Lechuga killed Stormy MNI with sniperrifle. (crit)
+[VSH 2] End of Round Saxton Hale (Stormy MNI) had 0 (of 9140) health left.
+
+Scag suicided.
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Lechuga suicided.
+[Admin] Heatmaker :  worked out perfectly
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Heatmaker suicided.
+Breezy Interwebs suicided.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Pizza killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+No such variable "$basetexture" for material "particle/flamethrowerfire/flamethrowerfire102"
+Heatmaker, nick-o-ween, Scag captured Red Bar for team #2
+No such variable "$basetexture" for material "effects/softglow_translucent"
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Pizza killed Gehtingsberg with shovel.
+Pizza killed Scag with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Pizza killed Stormy MNI with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Pizza defended Red Bar for team #3
+Pizza defended Red Bar for team #3
+Pizza killed Heatmaker with shovel.
+Pizza killed Lechuga with shovel.
+Pizza killed yehhew with shovel.
+*DEAD* [Admin] Heatmaker :  phlog gas is still stronk
+*DEAD* [Admin] Heatmaker :  me like
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+nick-o-ween killed Pizza with back_scatter. (crit)
+[VSH 2] End of Round Lycanroc (Pizza) had 0 (of 9140) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/sniper.cfg' not present; not executing.
+'app/sniper.cfg' not present; not executing.
+'app/sniper.cfg' not present; not executing.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Heatmaker killed Gehtingsberg with shovel.
+Heatmaker killed Stormy MNI with shovel.
+Heatmaker killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Heatmaker killed yehhew with shovel.
+Heatmaker killed Pizza with shovel.
+FFD700[RTD] FF4040Scag rolled 32CD32Extra Throwables.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Five' Six" Evan (STEAM_0:1:25546679) Connected. Rank 7 with 845 Serotonin. Monthly Rank 7 with 845 Serotonin.
+*DEAD* [Admin] Breezy Interwebs :  i think the hp scaling is pretty bad on high pop tho
+Heatmaker killed Scag with shovel.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Heatmaker killed Lechuga with shovel.
+*DEAD* [Admin] Breezy Interwebs :  too much, i think on 24+ pop you start to get close to 2k per person
+Five' Six" Evan connected
+[VSH 2] Type !setboss to select your boss!
+Heatmaker killed nick-o-ween with shovel.
+[VSH 2] End of Round Trump (Heatmaker) had 903 (of 9140) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+nick-o-ween killed Heatmaker with player.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI :  you didnt step properly
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+[Admin] Heatmaker :  i pressed w harder
+[SM] Voting for next map has started.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+[SM] Map voting has finished. The next map will be vsh_egyptyspot_me2. (Received 44% of 9 votes)
+Gehtingsberg killed yehhew with scotland_shard.
+*DEAD* Five' Six" Evan :  !haledmg on
+Clark (STEAM_0:0:58500296) Connected. Rank 9 with 818 Serotonin. Monthly Rank 9 with 818 Serotonin.
+[VSH 2] Type !setboss to select your boss!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+Pizza killed Gehtingsberg with big_earner. (crit)
+[VSH 2] End of Round The Easter Bunny (Gehtingsberg) had 0 (of 9140) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+Gehtingsberg killed Heatmaker with player.
+Clark connected
+Stormy MNI suicided.
+Pizza killed Lechuga with revolver. (crit)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/pyro.cfg' not present; not executing.
+'app/pyro.cfg' not present; not executing.
+'app/pyro.cfg' not present; not executing.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+[Admin] Heatmaker :  they really need to buff easter rage
+yehhew suicided.
+nick-o-ween killed Stormy MNI with shovel.
+nick-o-ween killed Gehtingsberg with shovel.
+[VSH 2] Type !setboss to select your boss!
+nick-o-ween killed Scag with shovel.
+nick-o-ween killed Heatmaker with shovel.
+*DEAD* [Admin] Heatmaker :  yoooo clark
+yehhew suicided.
+Clark :  hello
+nick-o-ween killed Lechuga with shovel.
+nick-o-ween killed Breezy Interwebs with shovel.
+Started download of cloud file 0AD5B8F5AD350796
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Clark with shovel.
+*DEAD* [Admin] Heatmaker :  oh this is last round. ima head out for the night homies
+nick-o-ween killed Pizza with shovel.
+*DEAD* Clark :  my dpi is screwing up
+*DEAD* [Admin] Heatmaker :  good to see y'all again
+nick-o-ween killed Five' Six" Evan with shovel.
+[VSH 2] End of Round Trump (nick-o-ween) had 7619 (of 11750) health left.
+
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+Stormy MNI :  byee heat
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+Scag :  nextmao
+Scag :  nextmap
+[SM] Five' Six" Evan wants to rock the vote. (1 votes, 5 required)
+*DEAD* Five' Six" Evan :  rtv
+
+Team Fortress
+Map: vsh_egyptyspot_me2
+Players: 8 / 28
+Build: 8308684
+Server Number: 3
+
+CAsyncWavDataCache:  1061 .wavs total 0 bytes, 0.00 % of capacity
+Completed demo, recording time 1649.5, game frames 107485.
+(Demo Support) End recording demos\2023-09-29_16-28-48
+Attemped to precache unknown particle system "projectile_fireball_center"!
+Attemped to precache unknown particle system "projectile_fireball_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_smoke"!
+Attemped to precache unknown particle system "projectile_fireball_end"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_smoke"!
+Attemped to precache unknown particle system "dragons_fury_FloatieEmbers"!
+Attemped to precache unknown particle system "projectile_fireball_fireball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokeball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokepuff_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_trail_pyrovision"!
+Attemped to precache unknown particle system "blood_impact_red"!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "ModelGlowColor" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Add" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Equals" unable to initialize!
+Error! Flag "$selfillum" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/models/player/soldier/2oldier_cape_red_invun.vmt
+VertexLitGeneric, (*proxies*), (*Equals*), 
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_red_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_blue_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_purple_invun"!
+Error! Flag "$selfillum" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_02
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_03
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_trunk_mid
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_glass
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_unlit
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pencil_cup_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/brickpile
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin1
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin2
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/blueprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/redprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_watergate/beer_barrel
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pigeons
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_chain
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee001
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee002
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01a
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01b
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01c
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01d
+MDLCache: Failed load of .VVD data for dr_safety_first\air_intake_ref.mdl
+MDLCache: Failed load of .VVD data for props/landfall/tree_landfall_upper.mdl
+MDLCache: Failed load of .VVD data for props_construction\blueprint_flat.mdl
+MDLCache: Failed load of .VVD data for props_construction\brickpile_pallet.mdl
+MDLCache: Failed load of .VVD data for props_construction\pencil_mug.mdl
+MDLCache: Failed load of .VVD data for props_construction\pigeon_3.mdl
+MDLCache: Failed load of .VVD data for props_construction\sandwich_board.mdl
+MDLCache: Failed load of .VVD data for props_construction/scaffold_stairs.mdl
+MDLCache: Failed load of .VVD data for props_foliage/tree_pine01_8cluster_skybox.mdl
+Error Vertex File for 'props_forest\rock001.mdl' checksum 1437434921 should be -1066454011
+MDLCache: Failed load of .VVD data for props_frontline/prop_streetlamp_single.mdl
+MDLCache: Failed load of .VVD data for props_industrial\chemical_container.mdl
+MDLCache: Failed load of .VVD data for props_temple\skycard_02.mdl
+MDLCache: Failed load of .VVD data for props_watergate\beer_barrel.mdl
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive02.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive03.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive04.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_laughhappy01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath03.wav came from. Not playing.
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_02
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_03
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_trunk_mid
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_glass
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_unlit
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pencil_cup_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/brickpile
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin1
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin2
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/blueprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/redprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_watergate/beer_barrel
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pigeons
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_chain
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee001
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee002
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01a
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01b
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01c
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01d
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/moon_corkboard.mdl)
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_02
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_03
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_trunk_mid
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_glass
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_unlit
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pencil_cup_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/brickpile
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin1
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin2
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/blueprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/redprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_watergate/beer_barrel
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pigeons
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_chain
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee001
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee002
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01a
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01b
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01c
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01d
+Voice_Init: Using Steam voice optimal sample rate 24000
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_02
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_03
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_trunk_mid
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_glass
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_unlit
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pencil_cup_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/brickpile
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin1
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin2
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/blueprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/redprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_watergate/beer_barrel
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pigeons
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_chain
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee001
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee002
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01a
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01b
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01c
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01d
+Breezy Interwebs connected
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_02
+CMaterial::PrecacheVars: error loading vmt file for models/props_industrial/chemical_container_03
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_trunk_mid
+CMaterial::PrecacheVars: error loading vmt file for models/props/landfall/pine_leaves
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_glass
+CMaterial::PrecacheVars: error loading vmt file for models/props_frontline/prop_streetlamp_unlit
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pencil_cup_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/brickpile
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin1
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/scaffolding_stairs_skin2
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/blueprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/redprint_01
+CMaterial::PrecacheVars: error loading vmt file for models/props_watergate/beer_barrel
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/pigeons
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_chain
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee001
+CMaterial::PrecacheVars: error loading vmt file for models/props_construction/sandwich_board_coffee002
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01a
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01b
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01c
+CMaterial::PrecacheVars: error loading vmt file for models/props_temple/skycard_01d
+Compact freed 937984 bytes
+Redownloading all lightmaps
+Started download of cloud file 17A1F1391C73F25C
+Pizza connected
+nick-o-ween connected
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag suicided.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] FF4040FernQuan's perk has worn off.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Clark killed FernQuan with nonnonviolent_protest.
+Gehtingsberg (STEAM_0:0:556612222) Connected. Rank 15 with 451 Serotonin. Monthly Rank 15 with 451 Serotonin.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/spy.cfg' not present; not executing.
+'app/spy.cfg' not present; not executing.
+'app/spy.cfg' not present; not executing.
+(Demo Support) Start recording demos\2023-09-29_16-57-27
+Recording to demos\2023-09-29_16-57-27.dem...
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/spy.cfg' not present; not executing.
+'app/spy.cfg' not present; not executing.
+'app/spy.cfg' not present; not executing.
+Gehtingsberg connected
+Scag killed FernQuan with headtaker.
+Scag killed Breezy Interwebs with headtaker.
+Scag killed Pizza with headtaker.
+*DEAD* [Admin] Breezy Interwebs :  what da heck
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag killed Stormy MNI with headtaker.
+[VSH 2] Revolver: +25% damage.
+[VSH 2] Ambassador: 3x headshot damage.
+[VSH 2] Type !setboss to select your boss!
+[VSH 2] L'Etranger: Firing does not remove disguise/applies disguise.
+[VSH 2] Enforcer: Outlines boss on hit.
+[VSH 2] Diamondback: Crits on minicrit. Gains 2 crits on stab.
+[VSH 2] Invis watch: Resists ~66% damage while cloaked (65 damage taken on boss melee.) Cannot regenerate cloak from dispensers or ammo sources.
+[VSH 2] Dead Ringer: Takes only 30 damage from initial feign death.
+FFD700[RTD] FF4040Clark rolled 8650ACBlind for 25 second(s).
+[VSH 2] Cloak and Dagger: Replaces cloak with 15% faster passive movement speed.
+Scag killed Clark with headtaker.
+FFD700[RTD] FF4040Clark has died during their roll.
+[VSH 2] Invis watch: Resists ~66% damage while cloaked (65 damage taken on boss melee.) Cannot regenerate cloak from dispensers or ammo sources.
+[VSH 2] Dead Ringer: Takes only 30 damage from initial feign death.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag killed yehhew with headtaker.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+EasyKill. (STEAM_0:0:538573332) Connected.
+Scag killed nick-o-ween with headtaker.
+[VSH 2] End of Round The Horseless Headless Horseman Jr. (Scag) had 3859 (of 8056) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Scag with player.
+Bad ragdoll for player/saxton_hale/hhh_jr_mk3.mdl
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+EasyKill. connected
+Stormy MNI killed Clark with shovel.
+Stormy MNI killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI killed Pizza with shovel.
+*DEAD* [Admin] Breezy Interwebs :  i am so cool
+[VSH 2] Type !setboss to select your boss!
+Stormy MNI killed yehhew with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] FF4040Scag rolled 8650ACNecro Mash.
+Scag suicided.
+*DEAD* EasyKill. :  rolled
+Stormy MNI killed FernQuan with shovel.
+>> nick-o-ween just goomba stomped Stormy MNI!
+Stormy MNI killed nick-o-ween with shovel.
+[VSH 2] End of Round Saxton Hale (Stormy MNI) had 3403 (of 8056) health left.
+
+nick-o-ween killed Stormy MNI with player.
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+FernQuan killed yehhew with tribalkukri.
+FernQuan killed Breezy Interwebs with tribalkukri.
+*DEAD* [Admin] Breezy Interwebs :  how
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+FernQuan killed Scag with tribalkukri.
+FernQuan killed EasyKill. with tribalkukri.
+Clark captured deez nuts for team #2
+[VSH 2] Type !setboss to select your boss!
+FernQuan killed Stormy MNI with tribalkukri.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+*DEAD* EasyKill. :  what happened to Stormy TBC?
+*DEAD* Stormy MNI :  he sadly passed away
+*DEAD* EasyKill. :  darn
+FFD700[RTD] 99CCFFFernQuan rolled 8650ACStrong Recoil for 25 second(s).
+[VSH 2] Type !setboss to select your boss!
+FFD700[RTD] 99CCFFFernQuan's perk has worn off.
+FernQuan killed nick-o-ween with tribalkukri.
+FernQuan killed Clark with tribalkukri.
+FernQuan killed Pizza with tribalkukri.
+[VSH 2] End of Round The Christian Brutal Sniper (FernQuan) had 142 (of 9140) health left.
+
+EasyKill(MNI). :  bruh
+[VSH 2] Type !wepstats to view the current weapon stats!
+*SPEC* [Admin] Breezy Interwebs :  throwing, kicked, banned
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+'app/soldier.cfg' not present; not executing.
+EasyKill(MNI). suicided.
+Stormy MNI :  1984
+FFD700[RTD] Wait for the round to start.
+FFD700[RTD] Shout "MEDIC!" to spawn a Dispenser.
+FFD700[RTD] Rolled 32CD32Spawn Dispenser for 25 second(s).
+FFD700[RTD] Spawned 1/1 Dispensers.
+FFD700[RTD] Your perk has worn off.
+Pizza killed Stormy MNI with shovel.
+FFD700[RTD] FF4040EasyKill(MNI). rolled 32CD32Powerful Hits for 25 second(s).
+Pizza killed nick-o-ween with shovel.
+Pizza killed EasyKill(MNI). with shovel.
+FFD700[RTD] FF4040EasyKill(MNI). has died during their roll.
+Pizza killed Scag with shovel.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Pizza killed FernQuan with shovel.
+*DEAD* EasyKill(MNI). :  the mad milk agh
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Pizza killed Clark with shovel.
+*DEAD* Clark :  my bad easy
+Pizza killed yehhew with shovel.
+Breezy Interwebs killed Pizza with rocketlauncher_directhit. (crit)
+[MNI] You gained 1 Serotonin for killing Pizza.
+[VSH 2] End of Round Lycanroc (Pizza) had 0 (of 9140) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+[Admin] Breezy Interwebs :  i was so ready to fail that
+No such variable "$basetexture" for material "effects/workshop/spirit_trail"
+FFD700[RTD] 99CCFFClark rolled 32CD32Infinite Ammo for 25 second(s).
+Clark killed Stormy MNI with mantreads.
+[VSH 2] Type !setboss to select your boss!
+FFD700[RTD] 99CCFFClark's perk has worn off.
+Clark killed Breezy Interwebs with boston_basher.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Clark killed Pizza with boston_basher.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+CTexture::GetTextureHandle(): nFrame is < 0!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+FFD700[RTD] 99CCFFClark rolled 32CD32Invisibility for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+EasyKill(MNI). :  ru ro
+Clark killed Scag with boston_basher.
+nick-o-ween killed Clark with panic_attack. (crit)
+FFD700[RTD] 99CCFFClark has died during their roll.
+[VSH 2] End of Round Sauron (Clark) had 0 (of 9140) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed EasyKill(MNI). with panic_attack. (crit)
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FernQuan :  rt
+FFD700[RTD] FF4040FernQuan rolled 8650ACSnail for 25 second(s).
+nick-o-ween killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+nick-o-ween killed EasyKill(MNI). with shovel.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+*DEAD* EasyKill(MNI). :  clark
+nick-o-ween killed Scag with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Stormy MNI with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed yehhew with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] FF4040FernQuan's perk has worn off.
+*DEAD* Stormy MNI :  wasnt me
+*DEAD* EasyKill(MNI). :  crying
+nick-o-ween killed Pizza with shovel.
+FFD700[RTD] FF4040Clark rolled 32CD32Madaras Whistle for 25 second(s).
+nick-o-ween killed FernQuan with shovel.
+*DEAD* EasyKill(MNI). :  woah
+FFD700[RTD] FF4040Clark's perk has worn off.
+[VSH 2] Type !wepstats to view the current weapon stats!
+*DEAD* EasyKill(MNI). :  uh hale is stalling
+*DEAD* FernQuan :  i hit that once at the start of the round and it insta killed the boss
+nick-o-ween killed Clark with world.
+[VSH 2] End of Round Trump (nick-o-ween) had 6633 (of 9140) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+EasyKill(MNI). :  BRO
+[Admin] Breezy Interwebs :  admins need to do something fr
+EasyKill(MNI). :  twas a joke
+Scag killed Clark with wrench.
+Scag killed Breezy Interwebs with mantreads.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag killed EasyKill(MNI). with wrench.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag killed yehhew with wrench.
+Bootleg FNAF Merch (STEAM_0:1:207673419) Connected.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Scag killed Stormy MNI with wrench.
+Cannot update control point 0 for effect 'cig_smoke'.
+Cannot update control point 0 for effect 'cig_smoke'.
+Cannot update control point 0 for effect 'cig_smoke'.
+Cannot update control point 0 for effect 'cig_smoke'.
+nick-o-ween killed yehhew with player.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FFD700[RTD] FF4040FernQuan rolled 32CD32Spawn Sentry for 25 second(s).
+FernQuan killed Stormy MNI with player.
+Stormy MNI killed FernQuan with env_explosion.
+FFD700[RTD] FF4040FernQuan has died during their roll.
+Scag killed Pizza with wrench.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* Stormy MNI :  rip
+[VSH 2] Type !setboss to select your boss!
+Bootleg FNAF Merch connected
+>> nick-o-ween just goomba stomped Scag!
+nick-o-ween killed Scag with panic_attack. (crit)
+[VSH 2] End of Round Mecha-Engie (Scag) had 0 (of 9140) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FFD700[RTD] Wait for the round to start.
+EasyKill(MNI). suicided.
+FernQuan :  my D key only works half of the time :(((
+Bootleg FNAF Merch :  I woke up this morning and I had to pee
+yehhew suicided.
+Perry the Platypus (STEAM_0:1:512621762) Connected. Rank 12 with 621 Serotonin. Monthly Rank 12 with 621 Serotonin.
+FFD700[RTD] Shout "MEDIC!" to attack.
+FFD700[RTD] Rolled 32CD32Hat Throw for 25 second(s).
+>> FernQuan just goomba stomped Stormy MNI!
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+>> FernQuan just goomba stomped Stormy MNI!
+>> FernQuan just goomba stomped Stormy MNI!
+>> FernQuan just goomba stomped Stormy MNI!
+>> FernQuan just goomba stomped Stormy MNI!
+>> FernQuan just goomba stomped Stormy MNI!
+>> FernQuan just goomba stomped Stormy MNI!
+Breezy Interwebs killed Stormy MNI with rocketlauncher_directhit. (crit)
+[MNI] You gained 1 Serotonin for killing Stormy MNI.
+[VSH 2] End of Round Saxton Hale (Stormy MNI) had 0 (of 10377) health left.
+
+nick-o-ween killed EasyKill(MNI). with widowmaker. (crit)
+Clark killed nick-o-ween with solemn_vow. (crit)
+Pizza killed Breezy Interwebs with machina. (crit)
+FFD700[RTD] You have died during your roll.
+yehhew killed Scag with headtaker. (crit)
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+yehhew killed FernQuan with headtaker. (crit)
+Clark killed Bootleg FNAF Merch with solemn_vow. (crit)
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Pizza killed yehhew with machina. (crit)
+Stormy MNI :  im back
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI :  oh
+Perry the Platypus connected
+[Admin] Breezy Interwebs :  wake up stormy
+EasyKill(MNI). :  homing
+FFD700[RTD] FF4040EasyKill(MNI). rolled 32CD32Infinite Ammo for 25 second(s).
+Gehtingsberg (STEAM_0:0:556612222) Connected. Rank 16 with 451 Serotonin. Monthly Rank 16 with 451 Serotonin.
+FernQuan killed Clark with tribalkukri.
+FernQuan killed EasyKill(MNI). with tribalkukri.
+FFD700[RTD] FF4040EasyKill(MNI). has died during their roll.
+FernQuan killed Bootleg FNAF Merch with tribalkukri.
+[VSH 2] Type !setboss to select your boss!
+FernQuan killed Scag with tf_projectile_arrow.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Gehtingsberg connected
+FernQuan killed nick-o-ween with tribalkukri.
+FernQuan killed Stormy MNI with tribalkukri.
+FernQuan killed yehhew with tribalkukri.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+Pizza killed FernQuan with fryingpan. (crit)
+[VSH 2] End of Round The Christian Brutal Sniper (FernQuan) had 0 (of 10377) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+Pizza killed Breezy Interwebs with shovel.
+Pizza killed Bootleg FNAF Merch with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Pizza killed Clark with shovel. (crit)
+Pizza killed EasyKill(MNI). with shovel.
+Pizza killed FernQuan with world.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+Stormy MNI :  a
+Pizza killed Gehtingsberg with shovel.
+Pizza killed yehhew with shovel.
+*DEAD* EasyKill(MNI). :  wait a minute
+*DEAD* EasyKill(MNI). :  serotonin
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* EasyKill(MNI). :  thats not gimgims
+*DEAD* [Admin] Breezy Interwebs :  whats a gimgim
+*DEAD* FernQuan :  you use them in the !shop
+Pizza killed Perry the Platypus with shovel.
+*DEAD* EasyKill(MNI). :  yeah
+*DEAD* [Admin] Breezy Interwebs :  !shop
+Pizza killed Scag with shovel.
+*DEAD* EasyKill(MNI). :  used to do that
+[VSH 2] Type !wepstats to view the current weapon stats!
+Pizza killed Stormy MNI with shovel.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Pizza killed nick-o-ween with shovel.
+[VSH 2] End of Round Lycanroc (Pizza) had 3994 (of 13278) health left.
+
+[Admin] Breezy Interwebs :  not for me, probably just a client bug for you
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Pizza with player.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFClark rolled 32CD32Tiny Mann for 25 second(s).
+[VSH 2] Type !setboss to select your boss!
+Clark killed Breezy Interwebs with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFClark's perk has worn off.
+Clark killed EasyKill(MNI). with shovel.
+*DEAD* EasyKill(MNI). :  thanks
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+Clark killed Gehtingsberg with shovel.
+Clark killed Bootleg FNAF Merch with shovel.
+*DEAD* Bootleg FNAF Merch :  fuck you
+Pizza :  whoa rude
+*DEAD* EasyKill(MNI). :  struck a nerve clark
+FFD700[RTD] 99CCFFClark rolled 32CD32Mini Crits for 25 second(s).
+Clark killed Scag with shovel. (crit)
+[VSH 2] Type !setboss to select your boss!
+*DEAD* Bootleg FNAF Merch :  this whole game mode strikea  nerve with me
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Clark killed nick-o-ween with shovel. (crit)
+FFD700[RTD] 99CCFFClark's perk has worn off.
+*DEAD* nick-o-ween :  then don't play it
+*DEAD* [Admin] Breezy Interwebs :  me on my way to relax by playing a game that makes me unfathomably angry
+*DEAD* nick-o-ween :  not worth
+Clark killed FernQuan with shovel.
+*DEAD* EasyKill(MNI). :  fr
+*DEAD* Bootleg FNAF Merch :  course, losers liek you have that responce in your holster it seems
+Clark killed Pizza with mantreads.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* nick-o-ween :  if i'm angry with a video game it's not worth my time
+Clark defended deez nuts for team #3
+Clark killed Stormy MNI with shovel.
+*DEAD* nick-o-ween :  simpe as is
+*DEAD* EasyKill(MNI). :  simpe
+[VSH 2] Type !wepstats to view the current weapon stats!
+*DEAD* [Admin] Breezy Interwebs :  simpe
+Clark died.
+[VSH 2] End of Round Trump (Clark) had 0 (of 11750) health left.
+
+Stormy MNI :  SIMP!
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+nick-o-ween :  simpe...
+yehhew suicided.
+[Admin] Breezy Interwebs :  nick L
+Bootleg FNAF Merch :  I hate yall 
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+EasyKill(MNI). :  then leave
+Panda (STEAM_0:0:7568516) Connected.
+nick-o-ween killed Clark with shovel.
+>> Scag just goomba stomped nick-o-ween!
+nick-o-ween killed Stormy MNI with shovel.
+nick-o-ween killed Bootleg FNAF Merch with shovel.
+nick-o-ween killed Breezy Interwebs with shovel.
+*DEAD* Bootleg FNAF Merch :  fuck you
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[SM] Voting for next map has started.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] FF4040EasyKill(MNI). rolled 32CD32Extra Ammo.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed FernQuan with shovel.
+*DEAD* [Admin] Breezy Interwebs :  bridge lol
+[SM] Map voting has finished. The next map will be vsh_bridge. (Received 57% of 7 votes)
+nick-o-ween killed Scag with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Gehtingsberg with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* Stormy MNI :  what have you done
+*DEAD* [Admin] Breezy Interwebs :  its so joever for bridge
+nick-o-ween killed yehhew with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Pizza with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed EasyKill(MNI). with shovel.
+[VSH 2] End of Round Trump (nick-o-ween) had 5925 (of 11750) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Bootleg FNAF Merch :  you losers can play the die in one hit game if you want, fuck yall
+Scag killed nick-o-ween with headtaker. (crit)
+Gehtingsberg killed Scag with sword. (crit)
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+Stormy MNI killed FernQuan with proto_syringe. (crit)
+EasyKill(MNI). :  ez
+Gehtingsberg killed Stormy MNI with sword. (crit)
+Started download of cloud file 03AD577C01595A8F
+Stormy MNI :  random person
+EasyKill(MNI). :  uh oh
+yehhew suicided.
+FFD700[RTD] 99CCFFScag rolled 8650ACStrong Recoil for 25 second(s).
+Stormy MNI :  wonder if they were from the fwkzt 
+FFD700[RTD] 99CCFFScag's perk has worn off.
+FFD700[RTD] FF4040FernQuan rolled 32CD32Hat Throw for 25 second(s).
+[VSH 2] Type !wepstats to view the current weapon stats!
+Scag killed EasyKill(MNI). with boston_basher.
+FFD700[RTD] FF4040FernQuan's perk has worn off.
+Scag killed Gehtingsberg with boston_basher.
+Scag killed Stormy MNI with boston_basher.
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+FFD700[RTD] Rolled 8650ACHell's Reach for 25 second(s).
+Pizza killed Scag with machina.
+[VSH 2] End of Round Sauron (Scag) had 0 (of 9140) health left.
+
+Breezy Interwebs killed FernQuan with shovel. (crit)
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+yehhew killed Breezy Interwebs with pep_pistol. (crit)
+FFD700[RTD] You have died during your roll.
+yehhew suicided.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Pizza suicided.
+
+Team Fortress
+Map: vsh_bridge
+Players: 8 / 28
+Build: 8308684
+Server Number: 4
+
+CAsyncWavDataCache:  1374 .wavs total 0 bytes, 0.00 % of capacity
+Completed demo, recording time 1775.4, game frames 115891.
+(Demo Support) End recording demos\2023-09-29_16-57-27
+Attemped to precache unknown particle system "projectile_fireball_center"!
+Attemped to precache unknown particle system "projectile_fireball_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_smoke"!
+Attemped to precache unknown particle system "projectile_fireball_end"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_fire"!
+Attemped to precache unknown particle system "projectile_fireball_end_ring_smoke"!
+Attemped to precache unknown particle system "dragons_fury_FloatieEmbers"!
+Attemped to precache unknown particle system "projectile_fireball_fireball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokeball_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_smokepuff_pyrovision"!
+Attemped to precache unknown particle system "projectile_fireball_trail_pyrovision"!
+Attemped to precache unknown particle system "blood_impact_red"!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "ModelGlowColor" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Add" unable to initialize!
+No such variable "$glowcolor" for material "models/weapons/gensokyo/shinbun"
+Error: Material "models/weapons/gensokyo/shinbun" : proxy "Equals" unable to initialize!
+Error! Flag "$selfillum" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/soldier/2oldier_head_red_invun"!
+KeyValues Error: RecursiveLoadFromBuffer:  got EOF instead of keyname in file materials/models/player/soldier/2oldier_cape_red_invun.vmt
+VertexLitGeneric, (*proxies*), (*Equals*), 
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_red_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_blue_invun"!
+Error! Variable "$lightwarptexture" is multiply defined in material "models/player/medic/0edic_hands_purple_invun"!
+Error! Flag "$selfillum" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnel" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+Error! Variable "$selfIllumFresnelMinMaxExp" is multiply defined in material "models/player/pyro/0yro_head_red_invun"!
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Cannot figure out which search path sound\physics\metal\metal_grenade_roll_loop1.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\timer.wav came from. Not playing.
+Cannot figure out which search path sound\items\pyro_guitar_solo_with_verb.wav came from. Not playing.
+Cannot figure out which search path sound\player\sniper_taunt_hawk.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_pyro_twirl.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing1.wav came from. Not playing.
+Cannot figure out which search path sound\player\taunt_yeti_standee_spy_swing2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial1.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial2.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial3.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial4.wav came from. Not playing.
+Cannot figure out which search path sound\player\cyoa_pda_dial5.wav came from. Not playing.
+Cannot figure out which search path sound\ui\quest_status_complete.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\shotgun_cock.wav came from. Not playing.
+Cannot figure out which search path sound\weapons\airstrike_fail.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive02.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive03.wav came from. Not playing.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive04.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_laughhappy01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath01.wav came from. Not playing.
+Cannot figure out which search path sound\vo\pyro_paincrticialdeath03.wav came from. Not playing.
+Voice_Init: Using Steam voice optimal sample rate 24000
+Saving c:\program files (x86)\steam\steamapps\common\team fortress 2\tf\sound\sound.cache
+Breezy Interwebs connected
+Compact freed 364544 bytes
+Redownloading all lightmaps
+Stormy MNI connected
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+FernQuan suicided.
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+*DEAD* nick-o-ween :  motd
+yehhew connected
+EasyKill(MNI). connected
+FFD700[RTD] 99CCFFFernQuan rolled 32CD32Mini Crits for 25 second(s).
+Scag connected
+Gehtingsberg killed FernQuan with sword.
+FFD700[RTD] 99CCFFFernQuan has died during their roll.
+*DEAD* [Admin] Breezy Interwebs :  this map is so cool
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FernQuan killed Gehtingsberg with player.
+[VSH 2] Type !setboss to select your boss!
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/demoman.cfg' not present; not executing.
+'app/demoman.cfg' not present; not executing.
+'app/demoman.cfg' not present; not executing.
+(Demo Support) Start recording demos\2023-09-29_17-28-01
+Recording to demos\2023-09-29_17-28-01.dem...
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/demoman.cfg' not present; not executing.
+'app/demoman.cfg' not present; not executing.
+'app/demoman.cfg' not present; not executing.
+EasyKill(MNI). suicided.
+Breezy Interwebs suicided.
+FFD700[RTD] FF4040EasyKill(MNI). rolled 32CD32Infinite Ammo for 25 second(s).
+[VSH 2] Type !wepstats to view the current weapon stats!
+FFD700[RTD] FF4040EasyKill(MNI).'s perk has worn off.
+Gehtingsberg killed Scag with shovel.
+Gehtingsberg killed FernQuan with shovel.
+Gehtingsberg killed EasyKill(MNI). with shovel.
+Gehtingsberg killed yehhew with shovel.
+Breezy Interwebs killed Gehtingsberg with loose_cannon. (crit)
+[MNI] You gained 1 Serotonin for killing Gehtingsberg.
+[VSH 2] End of Round Trump (Gehtingsberg) had 0 (of 8056) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/pyro.cfg' not present; not executing.
+'app/pyro.cfg' not present; not executing.
+'app/pyro.cfg' not present; not executing.
+FernQuan suicided.
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+FernQuan died.
+Somebody Mysterious (STEAM_0:0:55942377) Connected.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+EasyKill(MNI). :  0_o
+FFD700[RTD] 99CCFFStormy MNI rolled 32CD32Madaras Whistle for 25 second(s).
+EasyKill(MNI). :  fr
+FFD700[RTD] Too many players are already using RTD.
+Stormy MNI killed Breezy Interwebs with prop_dynamic.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !setboss to select your boss!
+FFD700[RTD] 99CCFFStormy MNI's perk has worn off.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI killed nick-o-ween with shovel.
+Scag suicided.
+Scag killed Stormy MNI with player.
+[VSH 2] End of Round Saxton Hale (Stormy MNI) had 0 (of 8056) health left.
+
+yehhew suicided.
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+EasyKill(MNI). suicided.
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/demoman.cfg' not present; not executing.
+'app/demoman.cfg' not present; not executing.
+'app/demoman.cfg' not present; not executing.
+Stormy MNI suicided.
+Scag suicided.
+[VSH 2] Type !wepstats to view the current weapon stats!
+FFD700[RTD] FF4040nick-o-ween rolled 8650ACFire Timebomb for 10 second(s).
+Scag :  /ws
+FFD700[RTD] FF4040nick-o-ween's perk has worn off.
+FernQuan killed Gehtingsberg with tribalkukri.
+Somebody Mysterious connected
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+FernQuan defended the Control Point for team #3
+FernQuan killed Scag with tribalkukri.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FernQuan killed Stormy MNI with tribalkukri.
+FFD700[RTD] FF4040EasyKill(MNI). rolled 8650ACHell's Reach for 25 second(s).
+FFD700[RTD] Too many players are already using RTD.
+FernQuan killed EasyKill(MNI). with tribalkukri.
+FFD700[RTD] FF4040EasyKill(MNI). has died during their roll.
+FernQuan killed Breezy Interwebs with tf_projectile_arrow.
+yehhew suicided.
+*DEAD* [Admin] Breezy Interwebs :  hi myst
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFFernQuan rolled 32CD32Increased Speed for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* Somebody Mysterious :  hello!!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FernQuan killed nick-o-ween with tribalkukri.
+[VSH 2] End of Round The Christian Brutal Sniper (FernQuan) had 1036 (of 8056) health left.
+
+FFD700[RTD] 99CCFFFernQuan's perk has worn off.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed FernQuan with player.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/medic.cfg' not present; not executing.
+'app/medic.cfg' not present; not executing.
+'app/medic.cfg' not present; not executing.
+yehhew suicided.
+nick-o-ween killed FernQuan with shovel.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+nick-o-ween killed Somebody Mysterious with shovel.
+nick-o-ween killed yehhew with shovel.
+nick-o-ween killed Gehtingsberg with shovel.
+Scag suicided.
+nick-o-ween killed EasyKill(MNI). with shovel.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+nick-o-ween killed Breezy Interwebs with shovel.
+*DEAD* [Admin] Breezy Interwebs :  how
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween killed Stormy MNI with shovel.
+[VSH 2] End of Round Trump (nick-o-ween) had 4527 (of 9140) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+EasyKill(MNI). suicided.
+Stormy MNI suicided.
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/scout.cfg' not present; not executing.
+'app/scout.cfg' not present; not executing.
+'app/scout.cfg' not present; not executing.
+'overrides/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'app/game_overrides.cfg' not present; not executing.
+'overrides/medic.cfg' not present; not executing.
+'app/medic.cfg' not present; not executing.
+'app/medic.cfg' not present; not executing.
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+EasyKill(MNI). killed Stormy MNI with smg. (crit)
+nick-o-ween killed EasyKill(MNI). with scotland_shard. (crit)
+EasyKill(MNI). suicided.
+Stormy MNI :  scag left?
+EasyKill(MNI). suicided.
+[VSH 2] Type !setboss to select your boss!
+Gehtingsberg killed Somebody Mysterious with world.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Gehtingsberg killed yehhew with headtaker.
+nick-o-ween killed Gehtingsberg with scotland_shard. (crit)
+[VSH 2] End of Round The Horseless Headless Horseman Jr. (Gehtingsberg) had 0 (of 8056) health left.
+
+Bad ragdoll for player/saxton_hale/hhh_jr_mk3.mdl
+EasyKill(MNI). killed Stormy MNI with smg. (crit)
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+EasyKill(MNI). suicided.
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+FFD700[RTD] FF4040FernQuan rolled 32CD32Tiny Mann for 25 second(s).
+Somebody Mysterious killed Stormy MNI with shovel.
+FFD700[RTD] FF4040FernQuan's perk has worn off.
+>> nick-o-ween just goomba stomped Somebody Mysterious!
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+[MNI] You just gained 6 Serotonin!
+Somebody Mysterious killed Gehtingsberg with shovel.
+Somebody Mysterious killed FernQuan with shovel.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Somebody Mysterious killed Breezy Interwebs with shovel.
+FFD700[RTD] FF4040EasyKill(MNI). rolled 8650ACLag for 25 second(s).
+Somebody Mysterious killed EasyKill(MNI). with shovel.
+FFD700[RTD] FF4040EasyKill(MNI). has died during their roll.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Somebody Mysterious killed yehhew with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* EasyKill(MNI). :  thats cap
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+Heavyeatsandvich (STEAM_0:0:169996933) Connected.
+Heavyeatsandvich connected
+Somebody Mysterious killed nick-o-ween with shovel.
+[VSH 2] End of Round Saxton Hale (Somebody Mysterious) had 2675 (of 8056) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+[Admin] Breezy Interwebs :  ello
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+EasyKill(MNI). suicided.
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+Heavyeatsandvich :  !sethale
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+FernQuan killed Breezy Interwebs with tribalkukri.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FernQuan killed nick-o-ween with world.
+FernQuan killed yehhew with tribalkukri.
+FernQuan killed EasyKill(MNI). with tribalkukri.
+[VSH 2] Type !wepstats to view the current weapon stats!
+FFD700[RTD] FF4040Heavyeatsandvich rolled 32CD32Vital for 25 second(s).
+FFD700[RTD] FF4040Heavyeatsandvich's perk has worn off.
+FernQuan killed Somebody Mysterious with tribalkukri.
+MP3 initialized with no sound cache, this may cause janking. [ vo\sniper_domination6.mp3 ]
+Failed to create decoder for MP3 [ vo\sniper_domination6.mp3 ]
+*** Invalid sample rate (0) for sound 'vo\sniper_domination6.mp3'.
+alluvia (STEAM_0:1:53236145) Connected. Rank 11 with 655 Serotonin. Monthly Rank 11 with 655 Serotonin.
+FernQuan killed Heavyeatsandvich with tribalkukri.
+[VSH 2] End of Round The Christian Brutal Sniper (FernQuan) had 2732 (of 7110) health left.
+
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+alluvia connected
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+[Head Admin] alluvia :  guys it's ok i'm here to abuse all my powers
+[SM] alluvia: Slapped nick-o-ween.
+FFD700[RTD] FF4040FernQuan rolled 32CD32Fire Breath for 25 second(s).
+Stormy MNI (STEAM_0:0:182577492) Connected. Rank 2 with 1689 Serotonin. Monthly Rank 2 with 1689 Serotonin.
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+FFD700[RTD] FF4040FernQuan's perk has worn off.
+FFD700[RTD] FF4040Heavyeatsandvich rolled 32CD32Low Gravity for 25 second(s).
+nick-o-ween killed alluvia with shovel.
+*DEAD* [Head Admin] alluvia :  !slsy
+*DEAD* [Head Admin] alluvia :  !slay
+nick-o-ween killed FernQuan with shovel.
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+nick-o-ween killed Somebody Mysterious with shovel.
+FFD700[RTD] FF4040Heavyeatsandvich's perk has worn off.
+Stormy MNI connected
+nick-o-ween killed yehhew with shovel.
+nick-o-ween killed Heavyeatsandvich with shovel.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+[SM] FernQuan has nominated vsh_foreststation_c1.
+nick-o-ween killed Breezy Interwebs with shovel.
+[VSH 2] End of Round Trump (nick-o-ween) had 2575 (of 7110) health left.
+
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Heavyeatsandvich :  gg
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] Wait for the round to start.
+Stormy MNI suicided.
+FernQuan suicided.
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+FFD700[RTD] Rolled 32CD32Homing Projectiles for 25 second(s).
+Heavyeatsandvich killed Breezy Interwebs with shovel.
+FFD700[RTD] You have died during your roll.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FernQuan :  i thought homing was removed
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Attemped to precache unknown particle system "plague_infect_player"!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Heavyeatsandvich killed Stormy MNI with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] FF4040FernQuan rolled 8650ACEarthquake for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[VSH 2] Type !wepstats to view the current weapon stats!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] FF4040FernQuan's perk has worn off.
+*DEAD* [Admin] Breezy Interwebs :  guess not
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFHeavyeatsandvich rolled 32CD32Invisibility for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+[Head Admin] alluvia :  HLEP
+Heavyeatsandvich killed alluvia with shovel.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FFD700[RTD] 99CCFFHeavyeatsandvich's perk has worn off.
+[VSH 2] Type !setboss to select your boss!
+[MNI] You just gained 6 Serotonin!
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Heavyeatsandvich killed FernQuan with shovel.
+Heavyeatsandvich killed nick-o-ween with shovel.
+Heavyeatsandvich killed Somebody Mysterious with shovel.
+[VSH 2] End of Round Lycanroc (Heavyeatsandvich) had 60 (of 7110) health left.
+
+Heavyeatsandvich :  lol
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 1 points.
+[Head Admin] alluvia :  bro...
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+[VSH 2] Type !wepstats to view the current weapon stats!
+Somebody Mysterious killed Breezy Interwebs with wrench.
+*DEAD* Stormy MNI :  breezy watch out
+[Head Admin] alluvia :  breezy looko ut
+*DEAD* [Admin] Breezy Interwebs :  fdggggggggggggggg
+[Head Admin] alluvia :  admin
+[Head Admin] alluvia :  help
+*DEAD* [Admin] Breezy Interwebs :  hehe hduie
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+FFD700[RTD] Shout "MEDIC!" to attack.
+FFD700[RTD] Rolled 32CD32Fire Breath for 25 second(s).
+[VSH 2] Type "!haledmg on" to display the top 3 players! Type "!haledmg off" to turn it off again.
+Breezy Interwebs killed alluvia with world.
+[MNI] You gained 1 Serotonin for killing alluvia.
+*DEAD* [Head Admin] alluvia :  NL'
+Somebody Mysterious killed FernQuan with wrench.
+Somebody Mysterious killed Heavyeatsandvich with wrench.
+nick-o-ween killed Breezy Interwebs with player.
+FFD700[RTD] You have died during your roll.
+FFD700[RTD] 99CCFFStormy MNI rolled 8650ACBeacon for 25 second(s).
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+*DEAD* Heavyeatsandvich :  !sethalew
+*DEAD* Heavyeatsandvich :  !sethale
+Somebody Mysterious killed nick-o-ween with wrench.
+[VSH 2] End of Round Mecha-Engie (Somebody Mysterious) had 2169 (of 6310) health left.
+
+[Head Admin] alluvia :  ...
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 0 points.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI suicided.
+[VSH 2] VSH2 v2.13 by Nergal, Scag, DatOpb, and mub. Credit for original concept to LizardOfOz, credit for previous VSH development to FlaminSarge, Buzzkillington, and ChData.
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+Stormy MNI killed alluvia with shovel.
+Stormy MNI killed FernQuan with shovel.
+FFD700[RTD] Rolled 8650ACStrong Recoil for 25 second(s).
+>> nick-o-ween just goomba stomped Stormy MNI!
+>> nick-o-ween just goomba stomped Stormy MNI!
+Stormy MNI killed nick-o-ween with shovel.
+Stormy MNI killed Somebody Mysterious with shovel.
+FFD700[RTD] You are already using RTD.
+*DEAD* FernQuan :  HOW
+Stormy MNI killed Breezy Interwebs with shovel.
+FFD700[RTD] You have died during your roll.
+Cannot figure out which search path sound\vo\announcer_am_lastmanalive02.wav came from. Not playing.
+Failed to load sound "vo\announcer_am_lastmanalive02.wav", file probably missing from disk/repository
+*DEAD* FernQuan :  HOW
+[VSH 2] Type !wepstats to view the current weapon stats!
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI killed Heavyeatsandvich with shovel.
+[VSH 2] End of Round Saxton Hale (Stormy MNI) had 1087 (of 7110) health left.
+
+[Head Admin] alluvia :  Guys I think I should spend the next 4 hours modding and starting a new fallout 4 playthrough
+[VSH 2] Queue Points set to 0. Type /noboss to toggle.
+[VSH 2] Queue You gained 0 queue points.
+[VSH 2] Queue You scored 2 points.
+[Admin] Breezy Interwebs :  hi  think hes hacking
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI :  im hacking
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Stormy MNI :  real
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+nick-o-ween :  fuck modding fallout 4
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Heavyeatsandvich :  100%
+Stormy MNI :  cant ban me
+nick-o-ween :  play nv
+nick-o-ween :  instead
+FFD700[RTD] Wait for the round to start.
+Heavyeatsandvich :  NEW VEGAS
+[Head Admin] alluvia :  nv mid
+[Head Admin] alluvia :  4 W
+[MNI] Warning: Stats are disabled due to low player count.
+[MNI] Serotonin gaining has been reenabled due to player count.
+FFD700[RTD] Rolled 8650ACForced Taunt for 25 second(s).
+Breezy Interwebs suicided.
+FFD700[RTD] You have died during your roll.
+alluvia killed nick-o-ween with shovel.
+[Head Admin] alluvia :  os ez
+*DEAD* nick-o-ween :  SO MID
+*DEAD* nick-o-ween :  YOU'RE SO MID
+alluvia killed Heavyeatsandvich with shovel.
+*DEAD* Heavyeatsandvich :  !weaponstats
+[VSH 2] Type !wepstats to view the current weapon stats!
+[MNI] You just gained 6 Serotonin!
+alluvia killed Stormy MNI with shovel.
+*DEAD* [Admin] Breezy Interwebs :  alright i think imma go kms
+Host_WriteConfiguration: Wrote cfg/config.cfg
+Completed demo, recording time 1571.4, game frames 103294.
+(Demo Support) End recording demos\2023-09-29_17-28-01
+CAsyncWavDataCache:  1535 .wavs total 0 bytes, 0.00 % of capacity
+CTFGCClientSystem::ShutdownGC
+CTFGCClientSystem - adding listener
+Unable to remove c:\program files (x86)\steam\steamapps\common\team fortress 2\tf\textwindow_temp.html!
+Shutdown function ShutdownMixerControls() not in list!!!

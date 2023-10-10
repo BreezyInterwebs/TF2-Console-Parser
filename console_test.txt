@@ -1,0 +1,1844 @@
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_use_steam_voice)
+[TF Workshop] Got 6 subscribed maps, 6 new
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+maxplayers set to 24
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (tf_flamethrower_new_flame_offset)
+Convar tf_impactwatertimeenable has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar cl_particle_retire_cost has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar r_drawropes has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+Cleaning up unneeded replay block data...
+Replay cleanup done.
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Loading default settings for high sensitivity
+Unknown command "sv_backspeed"
+Unknown command "mat_spewalloc"
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+Connection to game coordinator established.
+Current item schema is up-to-date with version FCD9ABDC.
+CTFGCClientSystem::PostInitGC
+CTFGCClientSystem - adding listener
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+'user/pre_comfig.cfg' not present; not executing.
+Unknown command "gl_pow2_tempmem"
+Unknown command "gl_mtglflush_at_tof"
+Unknown command "gl_debug_output"
+Unknown command "gl_magnify_resolve_mode"
+Unknown command "gl_batch_tex_creates"
+Unknown command "gl_batch_tex_destroys"
+Unknown command "gl_radar7954721_workaround_mixed"
+Unknown command "gl_paircache_rows_lg2"
+Unknown command "block_game_overrides_once"
+Medium preset selected 
+'addons/flat-mouse.cfg' not present; not executing.
+'addons/lowmem.cfg' not present; not executing.
+'addons/null-cancelling-movement.cfg' not present; not executing.
+'addons/transparent-viewmodels.cfg' not present; not executing.
+ 
+ 
+ 
+ 
+---------------|||||-------------------- 
+----------||||||||||-------------------- 
+-------||||||||------------------------- 
+-----||||||-----||||||||---------------- 
+---|||||----||||||||||||||||------------ 
+--||||----|||||||------|||||||---------- 
+-||||---|||||--------------|||||-------- 
+-|||---||||------------------||||------- 
+|||---||||--------------------||||------ 
+|||---|||----------------------|||------ 
+|||---|||----------------------|||---||| 
+|||---|||----------------------|||---||| 
+|||---||||--------------------||||---||| 
+||||---||||------------------||||---|||| 
+|||||---|||||--------------|||||---||||| 
+||||||---||||||||------|||||||----|||||| 
+||||||||----||||||||||||||||----|||||||| 
+|||--||||||-----||||||||-----||||||--||| 
+|||----||||||||----------||||||||----||| 
+|||-------||||||||||||||||||||-------||| 
+|||-----------||||||||||||-----------||| 
+ 
+ 
+ 
+ 
+  ********************************** 
+  ********************************** 
+  mastercomfig 9.0.0 loaded 
+  October 2, 2020 
+  ********************************** 
+  ********************************** 
+ 
+ 
+ 
+ 
+  ################################################## 
+  This release took 63 hours to produce. 
+  If you like the work I do, consider supporting me! 
+ 
+  docs.mastercomfig.com/page/support_me/ 
+ 
+  I accept Ko-fi, Liberapay, and trade offers! 
+ 
+  Your continued support, gratitude and dedication 
+  is much appreciated, thank you! 
+  ################################################## 
+ 
+ 
+ 
+ 
+Modules applied 
+No Tutorial addon applied 
+[TF Workshop] Got updated information for map [ workshop/mvm_yucatan_rc4.ugc528867291 ]
+[TF Workshop] Got updated information for map [ workshop/plr_highertower_nb.ugc954668585 ]
+[TF Workshop] Got updated information for map [ workshop/koth_namicott_j.ugc965555331 ]
+[TF Workshop] Got updated information for map [ workshop/pl_upward_free.ugc909057144 ]
+[TF Workshop] Got updated information for map [ workshop/pl_ququmannz_rc2.ugc841291955 ]
+[TF Workshop] Got updated information for map [ workshop/plr_bananabay_rc4.ugc951657912 ]
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+Unknown command "dimmer_clicked"
+Voice_Init: Using Steam voice optimal sample rate 24000
+--- Missing Vgui material vgui/crosshairs/
+--- Missing Vgui material vgui/logos/UI/spray
+Network: IP 192.168.1.12, mode MP, dedicated No, ports 27015 SV / 27005 CL
+Connecting to 74.91.120.24:27019...
+Connected to 74.91.120.24:27019
+
+Team Fortress
+Map: vsh_reiltas_hills_v2
+Players: 19 / 33
+Build: 6269048
+Server Number: 14
+
+Attemped to precache unknown particle system "Shoop_laser"!
+Attemped to precache unknown particle system "thisisthepart"!
+Attemped to precache unknown particle system "nyan_rainbow"!
+Attemped to precache unknown particle system "nyan_rainbow_green"!
+Attemped to precache unknown particle system "nyan_rainbow_blue"!
+Attemped to precache unknown particle system "nyan_rainbow_purple"!
+Attemped to precache unknown particle system "nyan_rainbow_red"!
+Attemped to precache unknown particle system "nyan_rainbow_yellow"!
+Attemped to precache unknown particle system "nyan_rainbow_orange"!
+Attemped to precache unknown particle system "goldbarglow_boom1"!
+Attemped to precache unknown particle system "goldbarglow_boom2"!
+Attemped to precache unknown particle system "goldbarglow_flash"!
+Attemped to precache unknown particle system "goldbarglow"!
+Attemped to precache unknown particle system "saxton_crash"!
+Attemped to precache unknown particle system "saxton_crash_dust"!
+Attemped to precache unknown particle system "beamparticle"!
+Attemped to precache unknown particle system "bottom_lazer"!
+Attemped to precache unknown particle system "watergrab_ele"!
+Attemped to precache unknown particle system "ring"!
+Attemped to precache unknown particle system "ring_trail"!
+Attemped to precache unknown particle system "water_fall_mid_mist"!
+Attemped to precache unknown particle system "water_fall_2"!
+Attemped to precache unknown particle system "smoke_volcano_l3l"!
+Attemped to precache unknown particle system "creak_splash_k3k"!
+Attemped to precache unknown particle system "blood_impact_red"!
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 283160 of shader (dyn=20)
+material models/weapons/c_items/c_ubersaw_xms has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/weapons/c_items/c_frontierjustice_xmas has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/all_class_ring_setting has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/crafting/coin_invasion has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+Error Index File for 'weapons\w_models\w_arrow_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_xmas_gib2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\random_organ.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib009.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_balloon.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_burger.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_boot.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_bolt.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_can.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_clock.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_fish.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear3.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear4.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear5.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_hubcap.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_licenseplate.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_teeth.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_tire.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib3.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_sniperrifle.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_pistol.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_shotgun.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_minigun.mdl' version 0 should be 7
+freak_fortress_2/newdio/newdio2.mdl/player/spy_user_animations.mdl : missmatched parent bones on "medal_bone"
+freak_fortress_2/newdio/newdio2.mdl/player/spy_animations.mdl : missmatched parent bones on "medal_bone"
+freak_fortress_2/newdio/newdio2.mdl/workshop/player/animations/spy_workshop_animations.mdl : missmatched parent bones on "medal_bone"
+No such variable "$cloakfactor" for material "freak_fortress_2/spooky_space_kook/kook_texture"
+No such variable "$cloakColorTint" for material "freak_fortress_2/spooky_space_kook/kook_texture"
+Error: Material "freak_fortress_2/spooky_space_kook/kook_texture" : proxy "spy_invis" unable to initialize!
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_urban/urban_crate001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_construction/pencil_mug.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/moon_corkboard.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/sawmill_window1a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_01a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/hwn_lightbulb01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/office_window_vent.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/rock_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_doomsday/corkboard_doomsday.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/building_farm01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_trainyard/window_skylight001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/candle_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_harbor/hopper_harbor3.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/roof_tiles2.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_04b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/chimney008.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_soho/pipestreet001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_red_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_top_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01up_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01up)
+Blizzardy Interwebs connected
+Compact freed 372736 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+[TBC] We have a Discord server! Type !discord to join.
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_use_steam_voice)
+[TF Workshop] Got 6 subscribed maps, 6 new
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+maxplayers set to 24
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (tf_flamethrower_new_flame_offset)
+Convar tf_impactwatertimeenable has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar cl_particle_retire_cost has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar r_drawropes has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+Cleaning up unneeded replay block data...
+Replay cleanup done.
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Loading default settings for high sensitivity
+Unknown command "sv_backspeed"
+Unknown command "mat_spewalloc"
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+Connection to game coordinator established.
+Current item schema is up-to-date with version FCD9ABDC.
+CTFGCClientSystem::PostInitGC
+CTFGCClientSystem - adding listener
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+'user/pre_comfig.cfg' not present; not executing.
+Unknown command "gl_pow2_tempmem"
+Unknown command "gl_mtglflush_at_tof"
+Unknown command "gl_debug_output"
+Unknown command "gl_magnify_resolve_mode"
+Unknown command "gl_batch_tex_creates"
+Unknown command "gl_batch_tex_destroys"
+Unknown command "gl_radar7954721_workaround_mixed"
+Unknown command "gl_paircache_rows_lg2"
+Unknown command "block_game_overrides_once"
+Medium preset selected 
+'addons/flat-mouse.cfg' not present; not executing.
+'addons/lowmem.cfg' not present; not executing.
+'addons/null-cancelling-movement.cfg' not present; not executing.
+'addons/transparent-viewmodels.cfg' not present; not executing.
+ 
+ 
+ 
+ 
+---------------|||||-------------------- 
+----------||||||||||-------------------- 
+-------||||||||------------------------- 
+-----||||||-----||||||||---------------- 
+---|||||----||||||||||||||||------------ 
+--||||----|||||||------|||||||---------- 
+-||||---|||||--------------|||||-------- 
+-|||---||||------------------||||------- 
+|||---||||--------------------||||------ 
+|||---|||----------------------|||------ 
+|||---|||----------------------|||---||| 
+|||---|||----------------------|||---||| 
+|||---||||--------------------||||---||| 
+||||---||||------------------||||---|||| 
+|||||---|||||--------------|||||---||||| 
+||||||---||||||||------|||||||----|||||| 
+||||||||----||||||||||||||||----|||||||| 
+|||--||||||-----||||||||-----||||||--||| 
+|||----||||||||----------||||||||----||| 
+|||-------||||||||||||||||||||-------||| 
+|||-----------||||||||||||-----------||| 
+ 
+ 
+ 
+ 
+  ********************************** 
+  ********************************** 
+  mastercomfig 9.0.0 loaded 
+  October 2, 2020 
+  ********************************** 
+  ********************************** 
+ 
+ 
+ 
+ 
+  ################################################## 
+  This release took 63 hours to produce. 
+  If you like the work I do, consider supporting me! 
+ 
+  docs.mastercomfig.com/page/support_me/ 
+ 
+  I accept Ko-fi, Liberapay, and trade offers! 
+ 
+  Your continued support, gratitude and dedication 
+  is much appreciated, thank you! 
+  ################################################## 
+ 
+ 
+ 
+ 
+Modules applied 
+No Tutorial addon applied 
+[TF Workshop] Got updated information for map [ workshop/plr_bananabay_rc4.ugc951657912 ]
+[TF Workshop] Got updated information for map [ workshop/mvm_yucatan_rc4.ugc528867291 ]
+[TF Workshop] Got updated information for map [ workshop/pl_upward_free.ugc909057144 ]
+[TF Workshop] Got updated information for map [ workshop/plr_highertower_nb.ugc954668585 ]
+[TF Workshop] Got updated information for map [ workshop/koth_namicott_j.ugc965555331 ]
+[TF Workshop] Got updated information for map [ workshop/pl_ququmannz_rc2.ugc841291955 ]
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+Voice_Init: Using Steam voice optimal sample rate 24000
+--- Missing Vgui material vgui/crosshairs/
+--- Missing Vgui material vgui/logos/UI/spray
+Connection to game coordinator established.
+Current item schema is up-to-date with version FCD9ABDC.
+Network: IP 192.168.1.12, mode MP, dedicated No, ports 27015 SV / 27005 CL
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_urban/urban_crate001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_construction/pencil_mug.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/moon_corkboard.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/sawmill_window1a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_01a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/hwn_lightbulb01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/office_window_vent.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/rock_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_doomsday/corkboard_doomsday.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/building_farm01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_trainyard/window_skylight001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/candle_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_harbor/hopper_harbor3.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/roof_tiles2.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_04b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/chimney008.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_soho/pipestreet001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_red_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_top_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+Using map cycle file 'cfg/mapcycle_default.txt'.  ('cfg\mapcycle.txt' was not found.)
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 283160 of shader (dyn=20)
+material models/weapons/c_items/c_ubersaw_xms has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/weapons/c_items/c_frontierjustice_xmas has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/all_class_ring_setting has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/crafting/coin_invasion has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+Error Index File for 'weapons\w_models\w_stickybomb_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib3.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_sniperrifle.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_pistol.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_shotgun.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_minigun.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_xmas_gib2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\random_organ.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib009.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib005.mdl' version 73088400 should be 7
+Error Index File for 'player\gibs\snipergib002.mdl' version 73088464 should be 7
+Error Index File for 'player\gibs\snipergib003.mdl' version 73088480 should be 7
+Error Index File for 'player\gibs\snipergib004.mdl' version 73088472 should be 7
+Error Index File for 'player\gibs\snipergib001.mdl' version 73088496 should be 7
+Error Index File for 'player\gibs\snipergib006.mdl' version 73088520 should be 7
+Error Index File for 'player\gibs\snipergib007.mdl' version 73088344 should be 7
+Error Index File for 'player\gibs\soldiergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_balloon.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_burger.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_boot.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_bolt.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_can.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_clock.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_fish.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear3.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear4.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear5.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_hubcap.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_licenseplate.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_teeth.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_tire.mdl' version 0 should be 7
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+Executing server arena config file
+'vsh_reiltas_hills_v2.cfg' not present; not executing.
+'config_arena.cfg' not present; not executing.
+
+Team Fortress
+Map: vsh_reiltas_hills_v2
+Players: 1 / 24
+Build: 6269048
+Server Number: 1
+
+Attemped to precache unknown particle system "water_fall_mid_mist"!
+Attemped to precache unknown particle system "water_fall_2"!
+Attemped to precache unknown particle system "smoke_volcano_l3l"!
+Attemped to precache unknown particle system "creak_splash_k3k"!
+Attemped to precache unknown particle system "blood_impact_red"!
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01up_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01up)
+Voice_Init: Using Steam voice optimal sample rate 24000
+Saving c:\program files (x86)\steam\steamapps\common\team fortress 2\tf\sound\sound.cache
+Blizzardy Interwebs connected
+Compact freed 487424 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+Redownloading all lightmaps
+NextBot tickrate changed from 0 (0.000ms) to 7 (0.105ms)
+'user/game_overrides.cfg' not present; not executing.
+'user/soldier.cfg' not present; not executing.
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_use_steam_voice)
+[TF Workshop] Got 6 subscribed maps, 6 new
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+maxplayers set to 24
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (tf_flamethrower_new_flame_offset)
+Convar tf_impactwatertimeenable has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar cl_particle_retire_cost has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar r_drawropes has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+Cleaning up unneeded replay block data...
+Replay cleanup done.
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Loading default settings for high sensitivity
+Unknown command "sv_backspeed"
+Unknown command "mat_spewalloc"
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+Connection to game coordinator established.
+Current item schema is up-to-date with version FCD9ABDC.
+CTFGCClientSystem::PostInitGC
+CTFGCClientSystem - adding listener
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+'user/pre_comfig.cfg' not present; not executing.
+Unknown command "gl_pow2_tempmem"
+Unknown command "gl_mtglflush_at_tof"
+Unknown command "gl_debug_output"
+Unknown command "gl_magnify_resolve_mode"
+Unknown command "gl_batch_tex_creates"
+Unknown command "gl_batch_tex_destroys"
+Unknown command "gl_radar7954721_workaround_mixed"
+Unknown command "gl_paircache_rows_lg2"
+Unknown command "block_game_overrides_once"
+Medium preset selected 
+'addons/flat-mouse.cfg' not present; not executing.
+'addons/lowmem.cfg' not present; not executing.
+'addons/null-cancelling-movement.cfg' not present; not executing.
+'addons/transparent-viewmodels.cfg' not present; not executing.
+ 
+ 
+ 
+ 
+---------------|||||-------------------- 
+----------||||||||||-------------------- 
+-------||||||||------------------------- 
+-----||||||-----||||||||---------------- 
+---|||||----||||||||||||||||------------ 
+--||||----|||||||------|||||||---------- 
+-||||---|||||--------------|||||-------- 
+-|||---||||------------------||||------- 
+|||---||||--------------------||||------ 
+|||---|||----------------------|||------ 
+|||---|||----------------------|||---||| 
+|||---|||----------------------|||---||| 
+|||---||||--------------------||||---||| 
+||||---||||------------------||||---|||| 
+|||||---|||||--------------|||||---||||| 
+||||||---||||||||------|||||||----|||||| 
+||||||||----||||||||||||||||----|||||||| 
+|||--||||||-----||||||||-----||||||--||| 
+|||----||||||||----------||||||||----||| 
+|||-------||||||||||||||||||||-------||| 
+|||-----------||||||||||||-----------||| 
+ 
+ 
+ 
+ 
+  ********************************** 
+  ********************************** 
+  mastercomfig 9.0.0 loaded 
+  October 2, 2020 
+  ********************************** 
+  ********************************** 
+ 
+ 
+ 
+ 
+  ################################################## 
+  This release took 63 hours to produce. 
+  If you like the work I do, consider supporting me! 
+ 
+  docs.mastercomfig.com/page/support_me/ 
+ 
+  I accept Ko-fi, Liberapay, and trade offers! 
+ 
+  Your continued support, gratitude and dedication 
+  is much appreciated, thank you! 
+  ################################################## 
+ 
+ 
+ 
+ 
+Modules applied 
+No Tutorial addon applied 
+[TF Workshop] Got updated information for map [ workshop/plr_highertower_nb.ugc954668585 ]
+[TF Workshop] Got updated information for map [ workshop/plr_bananabay_rc4.ugc951657912 ]
+[TF Workshop] Got updated information for map [ workshop/mvm_yucatan_rc4.ugc528867291 ]
+[TF Workshop] Got updated information for map [ workshop/pl_ququmannz_rc2.ugc841291955 ]
+[TF Workshop] Got updated information for map [ workshop/koth_namicott_j.ugc965555331 ]
+[TF Workshop] Got updated information for map [ workshop/pl_upward_free.ugc909057144 ]
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+Network: IP 192.168.1.12, mode MP, dedicated No, ports 27015 SV / 27005 CL
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_urban/urban_crate001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_moonbase/moon_handrail28.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_construction/pencil_mug.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/moon_corkboard.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/sawmill_window1a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/rock006b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_01a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/hwn_lightbulb01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/office_window_vent.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/rock_waterfall.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/crane002.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_doomsday/corkboard_doomsday.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/building_farm01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_trainyard/window_skylight001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_halloween/candle_cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_harbor/hopper_harbor3.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/roof_tiles2.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_powerhouse/powerhouse_blind01.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03a.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_04b.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/shrub_03c.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_forest/waterfall001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/chimney008.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_soho/pipestreet001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full_large.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mvm/mine_rock_full.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_hydro/small_substation1.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest512dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128dip.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_temple/skycard_02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_red_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_sunshine/lighthouse_top_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_foliage/tree_pine01_8cluster_skybox.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_skybox/skycards_forest128bump.mdl)
+Using map cycle file 'cfg/mapcycle_default.txt'.  ('cfg\mapcycle.txt' was not found.)
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 283160 of shader (dyn=20)
+material models/weapons/c_items/c_ubersaw_xms has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/weapons/c_items/c_frontierjustice_xmas has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/all_class_ring_setting has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/crafting/coin_invasion has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+Error Index File for 'weapons\w_models\w_stickybomb_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib3.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_sniperrifle.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_pistol.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_shotgun.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_minigun.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_xmas_gib2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\random_organ.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib009.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib005.mdl' version 73598560 should be 7
+Error Index File for 'player\gibs\snipergib002.mdl' version 73598624 should be 7
+Error Index File for 'player\gibs\snipergib003.mdl' version 73598640 should be 7
+Error Index File for 'player\gibs\snipergib004.mdl' version 73598632 should be 7
+Error Index File for 'player\gibs\snipergib001.mdl' version 73598656 should be 7
+Error Index File for 'player\gibs\snipergib006.mdl' version 73598680 should be 7
+Error Index File for 'player\gibs\snipergib007.mdl' version 73598504 should be 7
+Error Index File for 'player\gibs\soldiergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_balloon.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_burger.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_boot.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_bolt.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_can.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_clock.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_fish.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear3.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear4.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear5.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_hubcap.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_licenseplate.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_teeth.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_tire.mdl' version 0 should be 7
+Set motd from file 'cfg/motd_default.txt'.  ('cfg/motd.txt' was not found.)
+Set motd_text from file 'cfg/motd_text_default.txt'.  ('cfg/motd_text.txt' was not found.)
+SV_ActivateServer: setting tickrate to 66.7
+Executing server arena config file
+Connection to game coordinator established.
+Current item schema is up-to-date with version FCD9ABDC.
+'vsh_reiltas_hills_v2.cfg' not present; not executing.
+'config_arena.cfg' not present; not executing.
+
+Team Fortress
+Map: vsh_reiltas_hills_v2
+Players: 1 / 24
+Build: 6269048
+Server Number: 1
+
+Attemped to precache unknown particle system "water_fall_mid_mist"!
+Attemped to precache unknown particle system "water_fall_2"!
+Attemped to precache unknown particle system "smoke_volcano_l3l"!
+Attemped to precache unknown particle system "creak_splash_k3k"!
+Attemped to precache unknown particle system "blood_impact_red"!
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01up_replacement)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01rt)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01bk)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01lf)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01ft)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_goldrush_01up)
+Voice_Init: Using Steam voice optimal sample rate 24000
+Blizzardy Interwebs connected
+Compact freed 434176 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+Redownloading all lightmaps
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+NextBot tickrate changed from 0 (0.000ms) to 7 (0.105ms)
+'user/game_overrides.cfg' not present; not executing.
+'user/soldier.cfg' not present; not executing.
+For FCVAR_REPLICATED, ConVar must be defined in client and game .dlls (sv_use_steam_voice)
+[TF Workshop] Got 6 subscribed maps, 6 new
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+maxplayers set to 24
+Steam config directory: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\platform\config
+CClientSteamContext logged on = 1
+Parent cvar in server.dll not allowed (tf_flamethrower_new_flame_offset)
+Convar tf_impactwatertimeenable has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar cl_particle_retire_cost has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+Convar r_drawropes has conflicting FCVAR_CHEAT flags (child: FCVAR_CHEAT, parent: no FCVAR_CHEAT, parent wins)
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+ProtoDefs post data loaded.
+ProtoDefs loaded. 24.69 MB used
+Cleaning up unneeded replay block data...
+Replay cleanup done.
+Unknown command "cl_thirdperson"
+Can't use cheat cvar cam_snapto in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_ideallag in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdelta in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdist in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistright in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_idealdistup in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar cam_collision in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minpitch in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_minyaw in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_maxdistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_mindistance in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthowidth in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar c_orthoheight in multiplayer, unless the server has sv_cheats set to 1.
+Loading default settings for high sensitivity
+Unknown command "sv_backspeed"
+Unknown command "mat_spewalloc"
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+Connection to game coordinator established.
+Current item schema is up-to-date with version FCD9ABDC.
+CTFGCClientSystem::PostInitGC
+CTFGCClientSystem - adding listener
+ProtoDefs post data loaded.
+ProtoDefs post data loaded.
+'user/pre_comfig.cfg' not present; not executing.
+Unknown command "gl_pow2_tempmem"
+Unknown command "gl_mtglflush_at_tof"
+Unknown command "gl_debug_output"
+Unknown command "gl_magnify_resolve_mode"
+Unknown command "gl_batch_tex_creates"
+Unknown command "gl_batch_tex_destroys"
+Unknown command "gl_radar7954721_workaround_mixed"
+Unknown command "gl_paircache_rows_lg2"
+Unknown command "block_game_overrides_once"
+Medium preset selected 
+'addons/flat-mouse.cfg' not present; not executing.
+'addons/lowmem.cfg' not present; not executing.
+'addons/null-cancelling-movement.cfg' not present; not executing.
+'addons/transparent-viewmodels.cfg' not present; not executing.
+ 
+ 
+ 
+ 
+---------------|||||-------------------- 
+----------||||||||||-------------------- 
+-------||||||||------------------------- 
+-----||||||-----||||||||---------------- 
+---|||||----||||||||||||||||------------ 
+--||||----|||||||------|||||||---------- 
+-||||---|||||--------------|||||-------- 
+-|||---||||------------------||||------- 
+|||---||||--------------------||||------ 
+|||---|||----------------------|||------ 
+|||---|||----------------------|||---||| 
+|||---|||----------------------|||---||| 
+|||---||||--------------------||||---||| 
+||||---||||------------------||||---|||| 
+|||||---|||||--------------|||||---||||| 
+||||||---||||||||------|||||||----|||||| 
+||||||||----||||||||||||||||----|||||||| 
+|||--||||||-----||||||||-----||||||--||| 
+|||----||||||||----------||||||||----||| 
+|||-------||||||||||||||||||||-------||| 
+|||-----------||||||||||||-----------||| 
+ 
+ 
+ 
+ 
+  ********************************** 
+  ********************************** 
+  mastercomfig 9.0.0 loaded 
+  October 2, 2020 
+  ********************************** 
+  ********************************** 
+ 
+ 
+ 
+ 
+  ################################################## 
+  This release took 63 hours to produce. 
+  If you like the work I do, consider supporting me! 
+ 
+  docs.mastercomfig.com/page/support_me/ 
+ 
+  I accept Ko-fi, Liberapay, and trade offers! 
+ 
+  Your continued support, gratitude and dedication 
+  is much appreciated, thank you! 
+  ################################################## 
+ 
+ 
+ 
+ 
+Modules applied 
+No Tutorial addon applied 
+[TF Workshop] Got updated information for map [ workshop/koth_namicott_j.ugc965555331 ]
+[TF Workshop] Got updated information for map [ workshop/plr_highertower_nb.ugc954668585 ]
+[TF Workshop] Got updated information for map [ workshop/mvm_yucatan_rc4.ugc528867291 ]
+[TF Workshop] Got updated information for map [ workshop/plr_bananabay_rc4.ugc951657912 ]
+[TF Workshop] Got updated information for map [ workshop/pl_ququmannz_rc2.ugc841291955 ]
+[TF Workshop] Got updated information for map [ workshop/pl_upward_free.ugc909057144 ]
+Can't use cheat cvar fog_start in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_end in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_startskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar fog_endskybox in multiplayer, unless the server has sv_cheats set to 1.
+Can't use cheat cvar r_farz in multiplayer, unless the server has sv_cheats set to 1.
+Network: IP 192.168.1.12, mode MP, dedicated No, ports 27015 SV / 27005 CL
+Connecting to 74.91.120.24:27019...
+Connected to 74.91.120.24:27019
+
+Team Fortress
+Map: vsh_dust_showdown_final1
+Players: 16 / 33
+Build: 6269048
+Server Number: 3
+
+Attemped to precache unknown particle system "blood_impact_red"!
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+Failed, using default cubemap 'engine/defaultcubemap'
+The server is using sv_pure 0.  (Enforcing consistency for select files only)
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 283160 of shader (dyn=20)
+material models/weapons/c_items/c_ubersaw_xms has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/weapons/c_items/c_frontierjustice_xmas has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/all_class_ring_setting has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/crafting/coin_invasion has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+Error Index File for 'weapons\w_models\w_arrow_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_repair_claw_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_arrow_xmas_gib2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\random_organ.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\scoutgib009.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\snipergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\soldiergib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\demogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\medicgib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\heavygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib008.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\pyrogib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\spygib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib006.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib001.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib003.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib005.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib002.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib004.mdl' version 0 should be 7
+Error Index File for 'player\gibs\engineergib007.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_balloon.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_burger.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_boot.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_bolt.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_can.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_clock.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_fish.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear3.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear4.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_gear5.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_hubcap.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_licenseplate.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring1.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_spring2.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_teeth.mdl' version 0 should be 7
+Error Index File for 'player\gibs\gibs_tire.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib1.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib2.mdl' version 0 should be 7
+Error Index File for 'weapons\w_models\w_stickybomb_gib3.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_sniperrifle.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_pistol.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_shotgun.mdl' version 0 should be 7
+Error Index File for 'weapons/shells/shell_minigun.mdl' version 0 should be 7
+freak_fortress_2/newdio/newdio2.mdl/player/spy_user_animations.mdl : missmatched parent bones on "medal_bone"
+freak_fortress_2/newdio/newdio2.mdl/player/spy_animations.mdl : missmatched parent bones on "medal_bone"
+freak_fortress_2/newdio/newdio2.mdl/workshop/player/animations/spy_workshop_animations.mdl : missmatched parent bones on "medal_bone"
+No such variable "$cloakfactor" for material "freak_fortress_2/spooky_space_kook/kook_texture"
+No such variable "$cloakColorTint" for material "freak_fortress_2/spooky_space_kook/kook_texture"
+Error: Material "freak_fortress_2/spooky_space_kook/kook_texture" : proxy "spy_invis" unable to initialize!
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/cow001_reference.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_farm/wood_shack001.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_trainyard/cart_bomb_separate.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_mining/dustbowl_roof02.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_farm/tools_shovel.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_farm/tools_rope.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_farm/tools_rack.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_farm/tools_rack.mdl)
+SOLID_VPHYSICS static prop with no vphysics model! (models/props_2fort/cow001_reference.mdl)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_well_01rt)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_well_01bk)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_well_01lf)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_well_01ft)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_well_01up)
+Requesting texture value from var "$basetexture" which is not a texture value (material: skybox/sky_well_01dn)
+Saving c:\program files (x86)\steam\steamapps\common\team fortress 2\tf\sound\sound.cache
+Blizzardy Interwebs connected
+Compact freed 585728 bytes
+JOY_AXIS_X:  mapped to Turn (absolute)
+JOY_AXIS_Y:  mapped to Look (absolute)
+JOY_AXIS_Z:  unmapped
+JOY_AXIS_R:  mapped to Forward (absolute)
+JOY_AXIS_U:  mapped to Side (absolute)
+JOY_AXIS_V:  unmapped
+Advanced Joystick settings initialized
+Redownloading all lightmaps
+SetupBones: invalid bone array size (2 - needs 3)
+Jrmyhoffman killed an Ace hole with fists.
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+*DEAD* Santa Garou :  /!nominate
+[VSH 2] Welcome to The Brew Crew's Custom VSH, type /halehelp or /helpmenu for help!
+Jrmyhoffman killed MpuLse with fists.
+SetupBones: invalid bone array size (2 - needs 3)
+SetupBones: invalid bone array size (2 - needs 3)
+Shader 'shaders\fxc\vertexlit_and_unlit_generic_bump_ps20b.vcs' - Couldn't load combo 281880 of shader (dyn=20)
+*DEAD* Santa Garou :  !nominate
+*DEAD* an Ace hole :  Non-Epic Gamer
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+GIMP¥Tron killed Jrmyhoffman
+[NE] Santa Garou has nominated vsh_militaryzone_v2b.
+Festive Zeke Aileron™ killed Jrmyhoffman
+Jrmyhoffman killed purple with fists.
+GIMP¥Tron killed Jrmyhoffman with minigun.
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 0 points.
+Heldeka killed GIMP¥Tron with smg. (crit)
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+King Shot  5 killed Starbane with club. (crit)
+Spirit of cringemas :  lol
+Blue killed King Shot  5 with smg. (crit)
+'user/game_overrides.cfg' not present; not executing.
+'user/demoman.cfg' not present; not executing.
+[SM] For help, type !helpmenu in chat
+[TBC] You just gained 6 Gimgims!
+rinzor suicided.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Boney-eared Assfish (STEAM_0:1:53900091) Connected.
+>> rinzor just goomba stomped Blue! (32)
+[TBC] Grind for Gimgims each month for free donor! Type !rank to see where you stand!
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Blue killed an Ace hole with shovel. (crit)
+*DEAD* an Ace hole :  Non-Epic Gamer
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+[VSH 2] Type /haledmg for the customizeable damage tracker menu.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+FFD700[RTD] FF4040Santa Garou rolled: 32CD32crits for 20 seconds.
+Blue killed Jrmyhoffman with shovel.
+Blizzardy Interwebs killed an Ace hole with quickiebomb_launcher. (crit)
+[TBC] You gained 1 Gimgim for killing an Ace hole.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+FFD700[RTD] FF4040Santa Garou's effect has worn off.
+[VSH 2] Boss Health Check 
+The Spooky Space Kook's current health is: 6897 of 16957
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Jrmyhoffman killed Yeihlouh with ullapool_caber_explosion.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Starbane killed Jrmyhoffman with obj_minisentry.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Festive Zeke Aileron™ killed an Ace hole with crusaders_crossbow. (crit)
+FFD700[RTD] 99CCFFBlue rolled: 32CD32scary bullets for 20 seconds.
+Blue killed Santa Garou with shovel.
+>> rinzor just goomba stomped Blue! (33)
+FFD700[RTD] 99CCFFBlue's effect has worn off.
+Boney-eared Assfish connected
+Spirit of cringemas killed Yeihlouh with world.
+purple killed Blue
+Blue killed purple with shovel.
+Spirit of cringemas killed Jrmyhoffman with maxgun. (crit)
+Heldeka :  !ff2boss
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+King Shot  5 killed Santa Garou with sniperrifle.
+Blue killed Festive Zeke Aileron™ with shovel. (crit)
+GIMP¥Tron killed Blue
+GIMP¥Tron killed Blue with minigun.
+Heldeka killed GIMP¥Tron with smg. (crit)
+Town Drunk Blue :  HOW
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 7 points.
+SANTA (not satan) LIVES killed MpuLse with pep_brawlerblaster. (crit)
+Spirit of cringemas killed Heldeka with maxgun. (crit)
+SANTA (not satan) LIVES suicided.
+Blizzardy Interwebs suicided.
+Cannot update control point 0 for effect 'player_sparkles_red'.
+Starbane suicided.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Blizzardy Interwebs :  what how
+[hop] Wonderland.tf | LA Jailbreak - jail_minecraft_dynf_v10d (0/32) [type !servers to join]
+[TBC] You just gained 6 Gimgims!
+[VSH 2] Want to see whats new in V2.23? Type /halenew to check it out!
+>> purple just goomba stomped Spirit of cringemas! (1921)
+Spirit of cringemas killed Starbane with bonesaw.
+Spirit of cringemas killed Boney-eared Assfish with bonesaw.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Spirit of cringemas killed Jrmyhoffman with bonesaw.
+purple killed Spirit of cringemas
+FFD700[RTD] FF4040Santa Garou rolled: 32CD32infinite ammo for 20 seconds.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+[VSH 2] Boss Health Check 
+Thanos' current health is: 3909 of 16957
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed Spirit of cringemas
+Spirit of cringemas killed King Shot  5 with bonesaw.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+[TBC] Wanna switch it up? Check out some other game modes on Wonderland.tf!
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+FFD700[RTD] FF4040Santa Garou's effect has worn off.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Spirit of cringemas killed purple with bonesaw.
+>> rinzor just goomba stomped Spirit of cringemas! (34)
+Fives (STEAM_0:0:121759008) Connected. Rank 43 with 37767 Gimgims. Monthly Rank 40 with 2903 Gimgims.
+Spirit of cringemas killed Santa Garou with world.
+Spirit of cringemas killed Yeihlouh with bonesaw.
+Heldeka killed King Shot  5 with sniperrifle. (crit)
+Blue killed Yeihlouh with force_a_nature.
+purple killed SANTA (not satan) LIVES with iron_curtain.
+purple killed Blue with iron_curtain.
+Heldeka killed Boney-eared Assfish with sniperrifle. (crit)
+[VSH 2] Boss Health Check 
+Thanos' current health is: 457 of 16957
+Heldeka killed Jrmyhoffman with sniperrifle. (crit)
+Fives connected
+[VSH 2] By Nergal/Assyrian, Starblaster64, and Scag/Ragenewb.
+Spirit of cringemas killed Heldeka with bonesaw.
+FFD700[RTD] 99CCFFSpirit of cringemas rolled: 8650ACbig head for 20 seconds.
+GIMP¥Tron killed Spirit of cringemas
+purple killed rinzor with iron_curtain.
+FFD700[RTD] 99CCFFSpirit of cringemas died during their roll.
+GIMP¥Tron killed Spirit of cringemas with minigun.
+[VSH 2] Queue You gained 0 queue points because you toggled Boss Selection as off.
+[VSH 2] Queue You scored 4 points.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_gold has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_silver has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+material models/player/items/all_class/id_badge_platinum has a normal map and $basealphaenvmapmask.  Must use $normalmapalphaenvmapmask to get specular.
+
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed Blue with headtaker.
+purple killed GIMP¥Tron with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed MpuLse with headtaker.
+[TBC] You just gained 6 Gimgims!
+purple killed Jrmyhoffman with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed rinzor with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+*DEAD* rinzor :  tried to goomba :(
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed Yeihlouh with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Cannot update control point 0 for effect 'player_sparkles_red'.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed King Shot  5 with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+[hop] The Brew Crew's 24/7 Surf - surf_utopia_v3 (2/24) [type !servers to join]
+purple killed Santa Garou with headtaker.
+[VSH 2] Check out your VSH Achievements with /vshach.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed Boney-eared Assfish with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed Heldeka with headtaker.
+[VSH 2] Boss Health Check 
+The Horseless Headless Horsemann Jr.'s current health is: 3494 of 16957
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+purple killed Blizzardy Interwebs with headtaker.
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+--- Missing Vgui material vgui/..\vgui\maps\menu_thumb_Missing
+Model '(null)' doesn't have attachment 'backblast' to attach particle system 'rocketbackblast' to.
+FCVAR_CLIENTCMD_CAN_EXECUTE prevented running command: cmd
