@@ -17,7 +17,7 @@ This repo contains the Python file ConsoleParser.py, which contains the methods 
 None of the functions check for correct datatypes -- this is a personal project, and so it is assumed the inputs are carefully crafted manually.
 
 - filename should be in filename.txt or filename.log format.
-- steamid should be in STEAM_x:x:xxxxxxxx format.
+- steamid should be in STEAM_x\:x:xxxxxxxx format.
 - text is a phrase in String format.
 - name is a name in String format.
 - chat is a formatted list from parse_console(filename). 
@@ -43,6 +43,6 @@ Because TF2 is an online community with little restrictions on the content being
 
 #### Other Information
 
-The longest file included in this repo is approximately 228,000 lines. The unabridged console log is close to 5.5 million lines. This is ~350 mB in size, and so could not be included in Github.
-The communities being frequented during this time period included in the log (mid 2020) is The Brew Crew, a Versus Saxton Hale community which is now defunct. Therefore, there may be a concentration of specific terms that may not be representative of the overall TF2 community.
+The longest file included in this repo is approximately 228,000 lines. The unabridged console log is close to 5.5 million lines. This is ~350 mB in size, and so could not be included in Github.<br>
+The communities being frequented during this time period included in the log (mid 2020) is The Brew Crew, a Versus Saxton Hale community which is now defunct. Therefore, there may be a concentration of specific terms that may not be representative of the overall TF2 community.<br>
 The efficiency of this code is quite slow, especially when dealing with the full console log initially. In my full log, <10% of the lines in the file are actually chat messages. This means over 90% of the lines are garbage error lines.
