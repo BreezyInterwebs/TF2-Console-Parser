@@ -17,7 +17,7 @@ This repo contains the Python file ConsoleParser.py, which contains the methods 
 None of the functions check for correct datatypes -- this is a personal project, and so it is assumed the inputs are carefully crafted manually.
 
 - filename should be in filename.txt or filename.log format.
-- steamid should be in STEAM_x\:x:xxxxxxxx format.
+- steamid should be in STEAM_x:​x:xxxxxxxx format.
 - text is a phrase in String format.
 - name is a name in String format.
 - chat is a formatted list from parse_console(filename). 
